@@ -1,0 +1,1001 @@
+Product ID,Product Name,Category,Price,Discount,Tax Rate,Stock Level,Supplier ID,Customer Age Group,Customer Location,Customer Gender,Shipping Cost,Shipping Method,Return Rate,Seasonality,Popularity Index
+1001,Product_1,Clothing,73.55,0,12,312,251,60+,Semi-Urban,Female,130.95,Express,14.72,High,26.89
+1002,Product_2,Books,50.25,0,5,48,224,26-35,Urban,Female,118.59,Standard,37.76,Medium,65.03
+1003,Product_3,Clothing,80.53,10,5,172,211,18-25,Urban,Female,26.86,Express,13.2,Low,57.06
+1004,Product_4,Home & Kitchen,136.16,15,12,81,200,60+,Semi-Urban,Male,80.58,Express,26.18,Medium,29.76
+1005,Product_5,Clothing,47.44,0,18,321,254,60+,Semi-Urban,Male,95.64,Express,32.29,Medium,84.86
+1006,Product_6,Clothing,47.44,30,18,332,221,18-25,Semi-Urban,Male,168.27,Standard,19.02,Medium,42.26
+1007,Product_7,Electronics,140.83,0,18,44,239,46-60,Semi-Urban,Male,150.19,Standard,0.91,Medium,79.08
+1008,Product_8,Clothing,86.53,10,12,334,236,26-35,Urban,Female,72.87,Same Day,29.55,Medium,67.64
+1009,Product_9,Beauty,41.19,15,28,19,246,26-35,Semi-Urban,Female,98.85,Standard,11.6,High,63.96
+1010,Product_10,Electronics,75.61,20,12,447,200,18-25,Urban,Other,76.24,Standard,48.81,Low,38.95
+1011,Product_11,Sports,41.34,15,5,220,200,18-25,Rural,Male,143.86,Standard,20.28,Low,39.22
+1012,Product_12,Home & Kitchen,41.29,20,18,122,256,18-25,Semi-Urban,Female,150.3,Standard,11.85,Medium,72.8
+1013,Product_13,Home & Kitchen,63.13,5,5,233,241,18-25,Urban,Female,8.4,Standard,0.36,Low,66.58
+1014,Product_14,Home & Kitchen,17.32,20,12,220,253,46-60,Urban,Female,169.15,Standard,6.22,Medium,65.94
+1015,Product_15,Clothing,19.4,0,18,322,241,36-45,Semi-Urban,Female,137.25,Same Day,32.52,Low,70.72
+1016,Product_16,Clothing,38.96,20,18,338,220,46-60,Urban,Male,58.42,Standard,12.13,Medium,26.27
+1017,Product_17,Beauty,29.73,10,12,2,214,36-45,Urban,Female,202.91,Standard,7.81,Medium,85.3
+1018,Product_18,Clothing,65.93,20,18,181,216,18-25,Semi-Urban,Female,76.32,Express,7.68,Low,57.88
+1019,Product_19,Clothing,31.66,10,28,205,221,46-60,Semi-Urban,Female,48.55,Standard,27.13,Low,88.39
+1020,Product_20,Electronics,23.4,10,5,319,237,46-60,Urban,Male,59.16,Standard,13.13,Low,24.83
+1021,Product_21,Home & Kitchen,131.55,10,12,39,234,26-35,Semi-Urban,Male,103.79,Standard,10.3,Low,76.38
+1022,Product_22,Clothing,47.68,15,12,58,244,18-25,Rural,Male,70.28,Standard,9.26,Medium,76.19
+1023,Product_23,Clothing,56.86,0,12,438,215,36-45,Rural,Female,57.76,Standard,46.93,Medium,35.28
+1024,Product_24,Electronics,23.22,0,12,61,207,36-45,Semi-Urban,Female,50.04,Express,7.82,Low,52.21
+1025,Product_25,Books,39.38,0,28,131,246,46-60,Rural,Male,154.91,Same Day,17.12,Medium,43.81
+1026,Product_26,Clothing,58.36,0,18,59,216,18-25,Semi-Urban,Female,146.36,Express,32.79,Low,82.26
+1027,Product_27,Home & Kitchen,27.37,20,18,371,216,18-25,Urban,Male,12.03,Standard,44.57,High,71.18
+1028,Product_28,Home & Kitchen,68.4,0,12,330,253,26-35,Semi-Urban,Male,62.34,Standard,33.29,Low,96.98
+1029,Product_29,Beauty,38.08,40,18,121,225,26-35,Urban,Female,166.04,Standard,6.31,High,69.06
+1030,Product_30,Clothing,45.83,5,28,478,212,18-25,Urban,Female,94.0,Standard,28.05,Medium,79.64
+1031,Product_31,Beauty,38.05,0,18,106,216,26-35,Urban,Male,173.96,Standard,34.43,Medium,88.44
+1032,Product_32,Clothing,165.9,15,5,95,237,26-35,Semi-Urban,Male,213.78,Express,15.58,Medium,76.09
+1033,Product_33,Clothing,54.16,15,18,346,216,36-45,Semi-Urban,Female,212.42,Standard,20.3,High,57.32
+1034,Product_34,Home & Kitchen,28.94,10,5,413,247,26-35,Semi-Urban,Male,189.73,Standard,14.92,High,53.59
+1035,Product_35,Beauty,89.44,10,12,234,213,26-35,Urban,Female,81.01,Standard,36.9,Medium,63.41
+1036,Product_36,Home & Kitchen,26.25,15,5,385,244,36-45,Urban,Female,65.97,Standard,20.34,Low,80.93
+1037,Product_37,Sports,61.89,0,18,61,205,60+,Urban,Male,88.19,Express,42.38,High,49.68
+1038,Product_38,Clothing,16.85,40,18,255,234,18-25,Semi-Urban,Male,70.96,Same Day,3.38,Low,78.04
+1039,Product_39,Sports,24.61,40,5,48,245,18-25,Urban,Female,193.43,Standard,3.85,High,71.45
+1040,Product_40,Electronics,61.44,15,12,392,213,46-60,Urban,Female,146.83,Standard,38.43,Medium,39.93
+1041,Product_41,Home & Kitchen,85.04,0,12,347,246,26-35,Urban,Female,104.48,Same Day,5.56,High,77.07
+1042,Product_42,Clothing,60.51,15,12,158,207,36-45,Semi-Urban,Male,30.66,Express,6.75,High,67.84
+1043,Product_43,Clothing,50.94,0,5,123,214,26-35,Rural,Female,144.67,Same Day,13.7,Low,53.99
+1044,Product_44,Clothing,45.57,0,12,481,253,18-25,Semi-Urban,Male,213.68,Standard,40.63,Medium,67.55
+1045,Product_45,Clothing,22.49,5,18,316,226,36-45,Urban,Female,56.8,Standard,35.38,Low,54.77
+1046,Product_46,Electronics,35.45,10,5,206,212,36-45,Urban,Female,197.98,Standard,4.51,Low,69.95
+1047,Product_47,Clothing,41.41,20,5,47,248,26-35,Urban,Male,136.64,Standard,13.27,Medium,61.64
+1048,Product_48,Electronics,102.95,15,12,408,230,18-25,Urban,Female,406.28,Express,2.14,Low,34.4
+1049,Product_49,Home & Kitchen,67.1,15,28,419,252,60+,Urban,Male,86.78,Standard,10.72,Medium,62.24
+1050,Product_50,Electronics,18.96,5,18,135,255,26-35,Urban,Female,60.09,Standard,13.19,High,56.15
+1051,Product_51,Electronics,66.32,5,18,200,234,26-35,Urban,Male,178.57,Standard,24.55,Medium,77.71
+1052,Product_52,Electronics,43.33,5,12,249,259,46-60,Urban,Female,51.92,Express,11.88,Low,82.6
+1053,Product_53,Clothing,36.37,40,18,313,205,26-35,Urban,Male,103.01,Standard,27.65,High,54.82
+1054,Product_54,Beauty,78.81,0,5,356,204,36-45,Semi-Urban,Female,125.64,Standard,27.7,High,49.21
+1055,Product_55,Sports,101.35,20,18,367,221,60+,Rural,Female,173.88,Express,14.27,Medium,31.4
+1056,Product_56,Electronics,95.47,10,28,428,257,26-35,Rural,Other,216.68,Standard,22.74,Medium,48.72
+1057,Product_57,Home & Kitchen,33.0,5,18,317,248,26-35,Urban,Female,343.42,Standard,44.9,High,58.53
+1058,Product_58,Home & Kitchen,45.35,15,18,294,222,46-60,Urban,Male,16.94,Standard,11.62,Low,38.21
+1059,Product_59,Clothing,66.6,10,18,479,224,18-25,Rural,Male,328.31,Express,21.28,High,82.86
+1060,Product_60,Home & Kitchen,98.04,20,5,313,233,18-25,Urban,Male,27.37,Express,27.22,High,70.24
+1061,Product_61,Electronics,40.96,30,28,499,225,46-60,Semi-Urban,Female,40.68,Express,21.74,High,62.59
+1062,Product_62,Clothing,48.84,5,5,208,246,36-45,Semi-Urban,Male,159.5,Same Day,26.35,Low,64.67
+1063,Product_63,Clothing,28.11,5,18,354,204,60+,Rural,Male,110.61,Same Day,12.69,High,71.12
+1064,Product_64,Electronics,26.64,10,5,484,225,18-25,Rural,Male,36.44,Express,14.28,Medium,77.66
+1065,Product_65,Home & Kitchen,88.9,30,5,210,219,18-25,Semi-Urban,Female,151.26,Standard,26.75,Medium,81.18
+1066,Product_66,Clothing,123.19,0,12,191,205,18-25,Semi-Urban,Male,86.45,Express,46.4,High,58.82
+1067,Product_67,Clothing,52.29,10,12,43,205,36-45,Urban,Male,18.41,Standard,9.26,Low,62.16
+1068,Product_68,Clothing,99.7,10,12,28,258,26-35,Urban,Male,222.63,Same Day,27.09,Low,68.46
+1069,Product_69,Beauty,67.83,15,18,58,249,26-35,Urban,Female,48.99,Express,7.4,High,61.34
+1070,Product_70,Beauty,37.07,0,5,70,217,18-25,Urban,Female,36.78,Standard,40.03,High,82.45
+1071,Product_71,Home & Kitchen,67.82,15,5,91,203,26-35,Urban,Male,103.06,Standard,31.5,High,89.55
+1072,Product_72,Clothing,137.39,30,18,264,216,26-35,Urban,Female,43.95,Standard,33.04,Low,71.88
+1073,Product_73,Home & Kitchen,53.44,0,12,382,256,18-25,Rural,Male,150.74,Standard,7.95,Medium,46.84
+1074,Product_74,Clothing,139.6,0,18,219,213,46-60,Urban,Male,85.17,Standard,44.37,Low,75.17
+1075,Product_75,Electronics,11.34,40,18,389,213,18-25,Urban,Male,126.88,Standard,4.55,High,72.67
+1076,Product_76,Clothing,89.4,0,18,412,212,36-45,Urban,Female,56.48,Standard,6.59,Low,45.16
+1077,Product_77,Clothing,57.53,20,18,441,206,46-60,Urban,Female,109.01,Express,5.45,Medium,72.65
+1078,Product_78,Home & Kitchen,45.63,10,12,400,243,26-35,Urban,Male,45.71,Standard,31.23,Medium,54.12
+1079,Product_79,Sports,57.69,0,18,399,254,18-25,Rural,Female,76.65,Standard,13.75,High,79.92
+1080,Product_80,Beauty,16.57,20,12,214,214,26-35,Semi-Urban,Male,96.66,Standard,18.61,Medium,75.01
+1081,Product_81,Electronics,47.86,5,12,478,218,46-60,Urban,Other,15.58,Express,18.36,Medium,69.46
+1082,Product_82,Electronics,67.64,10,18,386,242,18-25,Urban,Female,201.59,Standard,9.05,Low,65.77
+1083,Product_83,Electronics,132.52,5,12,276,246,36-45,Urban,Female,23.68,Standard,11.01,Medium,22.33
+1084,Product_84,Home & Kitchen,40.01,10,18,63,243,60+,Semi-Urban,Female,39.52,Standard,23.85,Medium,40.71
+1085,Product_85,Home & Kitchen,33.61,0,18,345,234,60+,Urban,Other,46.99,Standard,22.68,Low,62.38
+1086,Product_86,Books,40.4,5,18,291,216,26-35,Urban,Other,145.67,Standard,3.79,Medium,95.39
+1087,Product_87,Clothing,94.56,30,28,489,234,36-45,Urban,Female,62.17,Standard,62.66,High,76.29
+1088,Product_88,Beauty,66.5,5,12,484,218,60+,Rural,Male,282.49,Standard,52.05,Low,100.0
+1089,Product_89,Home & Kitchen,39.73,15,12,244,219,26-35,Urban,Male,294.82,Express,6.68,Low,66.66
+1090,Product_90,Sports,74.29,5,18,469,235,18-25,Rural,Male,149.98,Express,15.79,Medium,64.38
+1091,Product_91,Home & Kitchen,57.87,15,12,61,234,18-25,Urban,Female,49.45,Standard,3.44,High,93.5
+1092,Product_92,Home & Kitchen,97.63,0,18,425,231,18-25,Semi-Urban,Male,81.57,Express,2.97,Low,61.82
+1093,Product_93,Home & Kitchen,35.83,30,18,331,257,46-60,Semi-Urban,Female,103.24,Standard,39.39,High,45.27
+1094,Product_94,Home & Kitchen,44.85,10,18,169,247,26-35,Urban,Female,198.99,Standard,11.12,High,71.34
+1095,Product_95,Clothing,43.15,0,12,444,243,46-60,Urban,Female,77.91,Standard,30.4,Low,87.45
+1096,Product_96,Electronics,22.69,0,12,268,239,36-45,Urban,Male,46.86,Standard,16.03,Low,48.48
+1097,Product_97,Electronics,65.21,0,12,266,223,36-45,Urban,Female,32.5,Standard,7.98,Medium,76.78
+1098,Product_98,Clothing,63.86,10,5,53,216,26-35,Semi-Urban,Male,207.19,Express,9.93,High,63.14
+1099,Product_99,Home & Kitchen,54.77,5,18,15,206,18-25,Urban,Female,150.19,Express,15.61,Medium,74.03
+1100,Product_100,Electronics,47.43,20,12,7,242,46-60,Semi-Urban,Female,72.26,Standard,22.04,Medium,71.27
+1101,Product_101,Clothing,23.35,5,12,103,249,26-35,Urban,Male,77.48,Standard,15.01,Low,56.71
+1102,Product_102,Clothing,42.42,0,5,58,200,26-35,Urban,Female,38.37,Standard,23.5,Medium,62.88
+1103,Product_103,Home & Kitchen,44.45,10,18,312,234,18-25,Semi-Urban,Male,350.84,Standard,11.49,Medium,57.94
+1104,Product_104,Clothing,33.74,15,18,39,231,46-60,Semi-Urban,Female,110.92,Standard,13.55,Low,67.37
+1105,Product_105,Electronics,49.56,0,12,236,235,46-60,Urban,Male,21.85,Same Day,5.2,Medium,48.08
+1106,Product_106,Electronics,69.58,0,5,442,212,26-35,Urban,Female,26.23,Standard,10.38,Low,52.86
+1107,Product_107,Electronics,169.31,0,12,385,205,26-35,Urban,Male,69.35,Express,37.91,Medium,56.72
+1108,Product_108,Beauty,60.63,15,12,93,257,36-45,Rural,Female,45.08,Standard,15.77,Low,72.83
+1109,Product_109,Clothing,63.72,15,18,221,213,18-25,Urban,Male,94.31,Express,14.35,Low,36.69
+1110,Product_110,Home & Kitchen,52.21,10,18,203,236,18-25,Urban,Male,142.52,Express,35.96,High,62.86
+1111,Product_111,Home & Kitchen,17.27,20,12,137,247,36-45,Semi-Urban,Female,41.06,Express,45.25,Low,50.84
+1112,Product_112,Books,53.74,20,12,299,214,18-25,Urban,Male,73.68,Same Day,2.73,Medium,56.77
+1113,Product_113,Clothing,56.61,10,28,394,246,26-35,Urban,Female,31.27,Standard,13.63,Low,51.8
+1114,Product_114,Electronics,239.35,20,12,206,203,26-35,Urban,Male,292.25,Standard,14.47,Low,68.89
+1115,Product_115,Electronics,48.65,0,18,335,239,26-35,Rural,Male,142.4,Express,19.01,Low,61.86
+1116,Product_116,Electronics,65.43,0,5,80,258,18-25,Rural,Female,147.3,Standard,9.15,Low,79.23
+1117,Product_117,Home & Kitchen,53.47,5,12,217,215,26-35,Semi-Urban,Female,134.55,Express,2.33,Low,73.03
+1118,Product_118,Electronics,27.08,0,5,1,227,26-35,Urban,Female,44.72,Standard,18.01,High,34.26
+1119,Product_119,Electronics,108.39,10,18,177,215,26-35,Semi-Urban,Female,112.45,Standard,19.94,Low,45.8
+1120,Product_120,Sports,85.73,30,28,395,203,36-45,Urban,Male,108.79,Standard,12.84,Low,61.54
+1121,Product_121,Home & Kitchen,87.76,0,12,370,244,60+,Urban,Male,114.74,Express,9.93,High,64.14
+1122,Product_122,Electronics,31.64,0,5,345,225,18-25,Rural,Male,51.98,Same Day,31.79,Low,47.56
+1123,Product_123,Electronics,126.68,10,5,278,227,46-60,Urban,Female,54.95,Standard,18.73,Medium,91.08
+1124,Product_124,Electronics,23.54,30,12,145,231,18-25,Urban,Female,185.13,Standard,15.57,Low,82.29
+1125,Product_125,Sports,77.64,5,12,317,244,26-35,Rural,Male,70.29,Express,14.1,Low,32.11
+1126,Product_126,Beauty,203.22,10,5,223,201,26-35,Semi-Urban,Male,185.18,Express,2.99,Medium,71.91
+1127,Product_127,Beauty,30.13,0,18,368,230,26-35,Urban,Male,52.29,Standard,24.52,High,64.08
+1128,Product_128,Sports,38.87,0,12,383,202,36-45,Urban,Other,50.5,Express,8.39,Low,89.88
+1129,Product_129,Clothing,57.96,40,12,61,253,26-35,Urban,Female,48.41,Standard,13.25,Medium,33.6
+1130,Product_130,Electronics,40.36,30,28,293,207,26-35,Urban,Male,91.78,Standard,15.17,Low,100.0
+1131,Product_131,Clothing,21.53,0,5,238,223,46-60,Urban,Female,192.8,Standard,15.41,Low,48.14
+1132,Product_132,Home & Kitchen,56.89,30,28,194,214,18-25,Urban,Male,54.76,Express,11.69,High,72.57
+1133,Product_133,Sports,28.86,10,12,165,242,18-25,Rural,Female,51.92,Express,49.96,Low,52.87
+1134,Product_134,Clothing,72.54,20,18,450,230,18-25,Urban,Female,114.42,Express,24.87,High,57.48
+1135,Product_135,Clothing,31.45,10,18,221,208,18-25,Urban,Male,25.95,Express,18.43,Low,31.21
+1136,Product_136,Sports,138.37,10,18,60,238,26-35,Urban,Female,199.96,Standard,47.85,High,88.94
+1137,Product_137,Electronics,34.13,10,28,128,244,26-35,Urban,Female,95.31,Express,29.86,Medium,59.61
+1138,Product_138,Sports,45.0,15,12,477,201,18-25,Urban,Male,96.77,Standard,21.85,High,60.97
+1139,Product_139,Electronics,88.95,0,28,172,207,18-25,Rural,Female,211.28,Express,19.55,Low,100.0
+1140,Product_140,Clothing,26.09,0,12,479,206,36-45,Rural,Male,255.82,Standard,17.91,High,84.19
+1141,Product_141,Electronics,62.58,5,12,155,255,36-45,Urban,Female,83.24,Express,4.52,Medium,51.63
+1142,Product_142,Home & Kitchen,119.62,15,12,404,243,60+,Rural,Male,51.66,Express,25.98,Medium,52.79
+1143,Product_143,Home & Kitchen,20.81,0,18,377,250,46-60,Urban,Male,70.09,Express,6.11,High,70.2
+1144,Product_144,Clothing,60.99,15,12,109,238,46-60,Semi-Urban,Female,50.38,Express,11.86,Medium,80.41
+1145,Product_145,Sports,63.81,30,18,268,241,36-45,Urban,Female,37.52,Standard,29.09,High,100.0
+1146,Product_146,Home & Kitchen,87.28,0,18,410,256,26-35,Rural,Male,32.78,Express,17.0,Low,32.84
+1147,Product_147,Home & Kitchen,25.99,15,18,355,215,18-25,Urban,Other,73.09,Standard,37.82,Medium,79.54
+1148,Product_148,Electronics,24.72,5,18,390,234,26-35,Semi-Urban,Male,146.11,Same Day,12.9,High,82.75
+1149,Product_149,Sports,74.68,20,12,277,229,18-25,Semi-Urban,Male,104.73,Express,50.95,Low,49.21
+1150,Product_150,Electronics,65.25,0,12,73,209,46-60,Urban,Female,129.41,Standard,24.65,Medium,57.79
+1151,Product_151,Electronics,63.45,15,12,486,237,26-35,Urban,Male,115.35,Express,8.82,High,32.39
+1152,Product_152,Electronics,67.21,20,12,436,217,36-45,Urban,Male,18.3,Standard,30.02,Medium,54.98
+1153,Product_153,Clothing,36.31,30,5,462,249,18-25,Semi-Urban,Female,65.42,Same Day,23.57,Low,69.64
+1154,Product_154,Sports,62.76,15,12,206,204,26-35,Urban,Male,96.86,Express,5.9,Low,96.88
+1155,Product_155,Clothing,65.09,10,12,387,252,26-35,Semi-Urban,Other,88.75,Standard,54.65,High,98.73
+1156,Product_156,Clothing,35.57,10,28,479,228,18-25,Rural,Male,58.22,Standard,27.68,High,44.41
+1157,Product_157,Beauty,167.25,20,18,278,238,26-35,Urban,Female,107.05,Standard,2.11,High,94.16
+1158,Product_158,Home & Kitchen,72.55,10,12,374,259,18-25,Urban,Male,210.66,Express,3.63,Medium,26.01
+1159,Product_159,Beauty,26.71,0,18,325,233,26-35,Semi-Urban,Male,137.28,Express,24.76,Medium,53.3
+1160,Product_160,Electronics,80.96,30,5,471,242,26-35,Semi-Urban,Female,184.62,Standard,27.32,Low,58.96
+1161,Product_161,Home & Kitchen,30.42,15,12,339,244,46-60,Rural,Female,227.36,Express,7.52,Low,70.04
+1162,Product_162,Electronics,87.55,15,18,356,222,26-35,Urban,Female,175.21,Standard,18.25,Low,67.13
+1163,Product_163,Books,109.42,0,12,339,204,26-35,Urban,Male,213.45,Standard,36.23,Low,72.31
+1164,Product_164,Home & Kitchen,33.37,15,12,203,229,60+,Semi-Urban,Female,12.33,Standard,9.62,High,61.34
+1165,Product_165,Home & Kitchen,97.32,5,28,160,205,26-35,Semi-Urban,Male,110.32,Standard,21.89,High,84.19
+1166,Product_166,Electronics,69.94,15,18,27,255,26-35,Semi-Urban,Female,43.2,Standard,11.47,Medium,78.84
+1167,Product_167,Clothing,89.41,0,18,391,257,26-35,Urban,Female,149.08,Standard,9.89,High,59.21
+1168,Product_168,Electronics,170.39,15,18,256,245,36-45,Urban,Male,164.9,Standard,16.31,High,81.85
+1169,Product_169,Clothing,47.12,40,18,164,243,26-35,Urban,Female,44.15,Express,29.86,Medium,100.0
+1170,Product_170,Clothing,34.74,0,12,62,203,26-35,Rural,Male,172.01,Standard,5.45,Medium,51.53
+1171,Product_171,Home & Kitchen,32.02,40,12,21,228,36-45,Urban,Female,93.63,Standard,20.33,Low,98.51
+1172,Product_172,Electronics,33.47,5,5,69,222,18-25,Semi-Urban,Female,96.12,Standard,27.21,Medium,53.33
+1173,Product_173,Beauty,52.13,20,12,380,205,46-60,Semi-Urban,Male,172.36,Standard,18.44,Low,93.21
+1174,Product_174,Electronics,67.0,15,18,404,231,26-35,Urban,Female,48.96,Standard,26.54,Low,54.08
+1175,Product_175,Electronics,64.46,10,12,95,241,26-35,Urban,Male,171.47,Standard,18.46,High,80.31
+1176,Product_176,Beauty,89.69,15,28,162,217,36-45,Semi-Urban,Female,49.23,Express,34.11,Low,68.59
+1177,Product_177,Home & Kitchen,55.03,20,28,78,214,18-25,Urban,Male,92.92,Express,14.1,Low,29.29
+1178,Product_178,Clothing,130.6,5,18,4,239,46-60,Urban,Female,48.94,Standard,34.09,Medium,100.0
+1179,Product_179,Electronics,46.58,5,18,315,257,60+,Urban,Male,116.22,Standard,26.24,Medium,47.09
+1180,Product_180,Home & Kitchen,279.25,15,18,119,231,26-35,Semi-Urban,Male,113.43,Standard,28.16,Low,39.61
+1181,Product_181,Clothing,79.47,20,5,301,208,46-60,Rural,Female,102.92,Standard,2.11,Low,52.21
+1182,Product_182,Clothing,32.65,15,18,177,236,18-25,Semi-Urban,Male,66.07,Express,7.86,High,100.0
+1183,Product_183,Home & Kitchen,28.72,15,5,175,209,46-60,Semi-Urban,Male,158.98,Express,20.71,Low,39.93
+1184,Product_184,Clothing,72.93,5,18,389,219,26-35,Urban,Female,14.07,Express,4.83,High,68.56
+1185,Product_185,Electronics,47.75,20,12,216,205,26-35,Semi-Urban,Female,82.52,Standard,23.38,Medium,42.54
+1186,Product_186,Sports,83.8,0,18,55,247,18-25,Rural,Female,189.06,Same Day,26.96,Medium,45.97
+1187,Product_187,Beauty,72.53,10,28,365,255,26-35,Urban,Male,216.7,Standard,19.12,Low,33.01
+1188,Product_188,Electronics,52.26,0,5,186,258,18-25,Urban,Female,108.77,Standard,14.72,High,71.3
+1189,Product_189,Clothing,32.85,5,12,231,202,46-60,Rural,Male,109.22,Standard,8.53,High,61.78
+1190,Product_190,Electronics,22.0,5,28,254,241,46-60,Semi-Urban,Female,36.06,Express,13.69,Low,42.37
+1191,Product_191,Beauty,41.77,5,12,412,210,18-25,Urban,Female,45.29,Express,4.13,Low,82.46
+1192,Product_192,Home & Kitchen,91.27,15,18,454,242,18-25,Rural,Female,11.26,Standard,20.4,Low,84.57
+1193,Product_193,Electronics,62.08,5,18,103,216,46-60,Urban,Male,121.87,Standard,6.14,High,73.14
+1194,Product_194,Electronics,25.86,5,12,76,231,26-35,Urban,Female,296.59,Express,12.1,Medium,88.41
+1195,Product_195,Electronics,60.58,0,12,229,203,18-25,Semi-Urban,Female,214.99,Same Day,5.63,Low,58.02
+1196,Product_196,Clothing,68.8,5,12,401,203,26-35,Urban,Female,32.91,Standard,14.12,Low,71.45
+1197,Product_197,Home & Kitchen,32.13,0,18,257,216,26-35,Semi-Urban,Male,41.51,Express,43.15,Medium,58.1
+1198,Product_198,Electronics,59.87,0,12,263,240,18-25,Urban,Female,198.05,Standard,1.29,High,34.85
+1199,Product_199,Electronics,56.54,10,18,330,218,36-45,Urban,Female,93.02,Express,3.94,Medium,69.38
+1200,Product_200,Clothing,27.5,15,12,480,204,26-35,Urban,Male,29.64,Standard,18.38,Low,68.17
+1201,Product_201,Electronics,67.67,10,18,181,231,18-25,Semi-Urban,Male,50.25,Standard,6.39,Low,64.4
+1202,Product_202,Clothing,76.44,10,18,380,221,46-60,Urban,Male,2.28,Express,26.36,Medium,72.48
+1203,Product_203,Home & Kitchen,104.57,5,28,255,255,26-35,Rural,Male,100.72,Same Day,21.03,Low,93.24
+1204,Product_204,Home & Kitchen,102.75,20,12,37,205,18-25,Semi-Urban,Male,232.64,Standard,28.04,High,60.91
+1205,Product_205,Books,23.89,10,18,175,234,18-25,Urban,Male,104.2,Standard,21.38,Medium,45.86
+1206,Product_206,Sports,31.1,10,18,26,221,18-25,Urban,Female,120.02,Standard,10.37,Low,60.04
+1207,Product_207,Home & Kitchen,74.37,0,18,275,200,26-35,Semi-Urban,Female,373.58,Standard,4.96,Medium,62.26
+1208,Product_208,Home & Kitchen,74.31,5,28,139,219,18-25,Urban,Male,30.58,Express,26.55,Medium,84.67
+1209,Product_209,Books,74.37,5,12,298,221,26-35,Urban,Female,232.02,Standard,28.5,Medium,67.13
+1210,Product_210,Electronics,550.95,5,5,444,247,18-25,Urban,Female,85.24,Express,8.3,High,42.04
+1211,Product_211,Electronics,76.9,10,18,286,254,36-45,Urban,Male,50.32,Standard,23.9,Medium,81.11
+1212,Product_212,Electronics,107.91,10,12,90,210,36-45,Urban,Male,128.63,Same Day,31.93,High,77.9
+1213,Product_213,Home & Kitchen,96.78,10,18,479,212,26-35,Semi-Urban,Female,59.14,Standard,25.57,Medium,67.14
+1214,Product_214,Beauty,80.71,15,18,60,258,36-45,Rural,Female,62.95,Standard,23.65,Low,83.96
+1215,Product_215,Clothing,45.19,20,5,457,241,46-60,Urban,Female,187.35,Standard,16.68,Low,87.31
+1216,Product_216,Clothing,86.09,15,18,450,202,26-35,Rural,Female,206.65,Express,40.29,High,57.45
+1217,Product_217,Clothing,34.34,30,12,364,208,26-35,Rural,Male,102.64,Standard,26.83,High,47.0
+1218,Product_218,Electronics,47.37,0,18,346,259,26-35,Rural,Female,328.28,Standard,21.85,Medium,64.76
+1219,Product_219,Clothing,40.8,0,18,162,211,46-60,Rural,Male,70.13,Express,35.42,Medium,75.73
+1220,Product_220,Electronics,57.35,0,28,350,222,18-25,Semi-Urban,Male,411.58,Express,31.11,Low,62.89
+1221,Product_221,Electronics,218.94,10,5,142,213,26-35,Semi-Urban,Male,257.36,Express,9.77,Medium,45.23
+1222,Product_222,Beauty,17.81,20,12,399,232,26-35,Urban,Male,250.07,Standard,23.16,High,68.25
+1223,Product_223,Beauty,82.41,0,18,252,217,36-45,Urban,Female,166.71,Standard,37.55,High,24.33
+1224,Product_224,Beauty,20.75,30,18,268,248,36-45,Rural,Female,148.16,Express,36.07,Low,58.51
+1225,Product_225,Home & Kitchen,41.13,0,18,368,258,26-35,Urban,Other,120.45,Standard,18.97,Low,82.02
+1226,Product_226,Beauty,104.94,30,5,290,240,18-25,Urban,Male,235.96,Standard,20.8,Medium,83.11
+1227,Product_227,Home & Kitchen,56.75,5,12,499,208,60+,Urban,Other,216.77,Standard,8.58,Medium,1.0
+1228,Product_228,Home & Kitchen,28.6,0,12,458,222,18-25,Semi-Urban,Female,136.0,Same Day,7.41,Low,61.15
+1229,Product_229,Home & Kitchen,35.55,10,18,186,209,18-25,Semi-Urban,Male,69.98,Standard,44.96,Medium,76.99
+1230,Product_230,Clothing,82.09,5,12,404,218,26-35,Urban,Female,22.55,Express,6.65,Low,41.48
+1231,Product_231,Clothing,35.23,5,12,498,246,36-45,Urban,Female,166.95,Standard,39.1,High,57.56
+1232,Product_232,Home & Kitchen,62.17,5,28,437,204,36-45,Semi-Urban,Male,108.55,Express,8.45,Medium,89.15
+1233,Product_233,Clothing,56.11,20,5,458,246,46-60,Urban,Female,175.82,Express,18.36,High,55.32
+1234,Product_234,Clothing,36.93,10,28,413,251,18-25,Semi-Urban,Female,196.41,Standard,36.24,High,96.97
+1235,Product_235,Clothing,197.62,5,18,303,222,26-35,Urban,Female,6.72,Standard,28.78,Medium,50.18
+1236,Product_236,Clothing,79.87,10,18,290,229,18-25,Rural,Female,64.96,Express,18.16,High,93.2
+1237,Product_237,Books,16.2,15,12,85,224,46-60,Urban,Male,73.18,Standard,32.58,Medium,65.67
+1238,Product_238,Clothing,61.06,5,5,165,227,26-35,Semi-Urban,Female,28.87,Express,29.75,High,47.43
+1239,Product_239,Clothing,36.71,5,18,414,233,18-25,Semi-Urban,Female,139.14,Express,10.45,Low,93.26
+1240,Product_240,Electronics,91.05,0,18,461,244,36-45,Urban,Male,165.44,Standard,38.53,High,40.87
+1241,Product_241,Beauty,33.94,0,18,407,255,26-35,Urban,Male,117.59,Standard,35.05,Low,49.08
+1242,Product_242,Home & Kitchen,50.97,15,5,113,247,26-35,Urban,Female,25.81,Standard,6.08,Low,74.8
+1243,Product_243,Home & Kitchen,73.92,0,18,432,246,46-60,Rural,Male,150.53,Express,32.8,Medium,66.62
+1244,Product_244,Beauty,91.79,10,18,479,224,18-25,Urban,Female,69.94,Standard,17.39,Medium,70.48
+1245,Product_245,Clothing,26.57,15,18,355,209,18-25,Semi-Urban,Female,63.87,Same Day,29.84,Low,57.63
+1246,Product_246,Electronics,44.67,0,18,415,213,18-25,Rural,Male,207.7,Same Day,35.0,Medium,41.01
+1247,Product_247,Electronics,41.06,10,18,182,241,26-35,Semi-Urban,Male,289.84,Standard,2.22,High,51.95
+1248,Product_248,Home & Kitchen,36.89,5,18,206,256,18-25,Semi-Urban,Male,156.8,Standard,4.04,Low,91.41
+1249,Product_249,Home & Kitchen,157.48,30,5,255,245,36-45,Semi-Urban,Female,70.58,Standard,3.05,Medium,38.26
+1250,Product_250,Electronics,69.62,10,12,234,257,18-25,Rural,Female,83.87,Same Day,9.83,Low,97.89
+1251,Product_251,Electronics,25.62,20,5,441,229,46-60,Rural,Female,176.39,Standard,42.13,Medium,71.32
+1252,Product_252,Electronics,94.7,10,12,354,254,18-25,Rural,Male,19.91,Standard,5.6,Medium,53.06
+1253,Product_253,Home & Kitchen,195.06,0,12,2,240,18-25,Semi-Urban,Female,483.93,Express,21.71,Low,24.96
+1254,Product_254,Electronics,101.44,10,5,207,224,18-25,Urban,Female,105.1,Standard,49.27,High,27.59
+1255,Product_255,Electronics,21.94,30,12,196,213,36-45,Urban,Male,99.34,Standard,8.63,Medium,57.88
+1256,Product_256,Clothing,40.83,10,5,340,234,26-35,Urban,Female,97.95,Standard,15.2,High,55.46
+1257,Product_257,Home & Kitchen,116.76,20,18,124,251,36-45,Rural,Male,46.45,Express,25.5,Medium,67.35
+1258,Product_258,Home & Kitchen,35.71,20,28,137,247,36-45,Rural,Female,212.78,Standard,8.22,High,99.38
+1259,Product_259,Clothing,71.26,0,5,338,233,46-60,Urban,Male,136.01,Standard,47.66,Low,75.75
+1260,Product_260,Home & Kitchen,86.9,0,28,24,209,36-45,Urban,Male,15.1,Express,33.62,Low,62.43
+1261,Product_261,Clothing,31.31,10,18,67,234,18-25,Urban,Female,142.28,Standard,14.06,Medium,89.34
+1262,Product_262,Books,52.68,5,12,60,210,36-45,Urban,Female,183.15,Express,40.75,High,68.01
+1263,Product_263,Electronics,7.81,20,5,28,210,46-60,Semi-Urban,Male,160.08,Standard,15.96,Low,96.99
+1264,Product_264,Home & Kitchen,29.53,30,18,382,220,60+,Urban,Female,139.74,Standard,12.74,High,51.56
+1265,Product_265,Clothing,46.92,5,18,18,220,18-25,Urban,Female,240.07,Standard,8.32,Low,42.04
+1266,Product_266,Electronics,25.82,0,18,170,221,26-35,Urban,Male,74.02,Standard,10.11,Low,24.99
+1267,Product_267,Home & Kitchen,145.39,15,5,449,244,18-25,Urban,Female,96.81,Standard,13.51,Low,62.89
+1268,Product_268,Clothing,23.15,5,5,73,206,18-25,Rural,Female,39.55,Standard,15.17,Medium,40.31
+1269,Product_269,Clothing,41.93,20,12,60,254,36-45,Urban,Female,425.05,Standard,11.2,High,40.02
+1270,Product_270,Clothing,59.05,5,12,426,216,60+,Rural,Male,35.09,Standard,10.92,Low,85.69
+1271,Product_271,Electronics,129.64,15,12,152,201,26-35,Urban,Female,160.02,Standard,20.24,Medium,30.56
+1272,Product_272,Clothing,23.07,0,12,275,211,46-60,Urban,Female,67.98,Standard,30.54,Low,67.07
+1273,Product_273,Clothing,109.72,10,18,47,256,18-25,Semi-Urban,Female,98.83,Standard,21.59,Medium,63.34
+1274,Product_274,Home & Kitchen,54.93,10,28,210,241,18-25,Semi-Urban,Male,5.9,Express,15.18,Low,66.84
+1275,Product_275,Beauty,30.3,10,12,342,217,26-35,Semi-Urban,Female,165.86,Standard,13.06,Medium,92.68
+1276,Product_276,Electronics,72.04,0,28,407,253,26-35,Urban,Male,397.91,Standard,41.28,Medium,48.49
+1277,Product_277,Home & Kitchen,61.52,15,12,138,258,46-60,Urban,Female,162.69,Express,9.35,Medium,92.7
+1278,Product_278,Sports,38.09,20,12,109,210,26-35,Semi-Urban,Other,2.43,Standard,38.73,Low,29.8
+1279,Product_279,Electronics,56.93,0,12,481,215,26-35,Urban,Male,136.54,Standard,26.85,Low,78.01
+1280,Product_280,Clothing,43.33,0,18,182,248,26-35,Urban,Male,26.58,Standard,21.23,Medium,94.53
+1281,Product_281,Beauty,58.45,0,28,27,250,18-25,Semi-Urban,Female,33.58,Same Day,7.58,High,1.0
+1282,Product_282,Home & Kitchen,81.23,10,18,196,217,46-60,Urban,Female,159.32,Standard,39.86,High,64.29
+1283,Product_283,Electronics,141.4,10,12,190,234,26-35,Urban,Male,137.52,Express,15.19,High,62.67
+1284,Product_284,Clothing,25.98,10,18,314,252,26-35,Urban,Female,173.79,Express,20.87,High,66.44
+1285,Product_285,Clothing,196.33,0,5,388,258,36-45,Rural,Female,138.35,Standard,21.49,Medium,99.23
+1286,Product_286,Books,16.92,5,18,50,225,26-35,Urban,Female,102.05,Express,14.57,Low,49.73
+1287,Product_287,Electronics,49.85,10,18,148,215,36-45,Rural,Female,168.25,Standard,24.25,Low,41.31
+1288,Product_288,Books,77.71,10,12,267,205,18-25,Urban,Male,21.15,Standard,20.21,Medium,66.58
+1289,Product_289,Clothing,64.62,40,18,49,256,18-25,Semi-Urban,Female,202.38,Standard,17.09,Medium,87.49
+1290,Product_290,Electronics,37.58,0,18,387,243,60+,Urban,Male,27.55,Express,34.2,High,76.17
+1291,Product_291,Clothing,48.19,15,5,245,242,36-45,Urban,Male,133.11,Standard,18.45,Low,65.69
+1292,Product_292,Home & Kitchen,40.62,5,18,112,246,26-35,Semi-Urban,Male,248.77,Standard,16.91,Medium,60.42
+1293,Product_293,Electronics,38.34,5,12,169,246,26-35,Semi-Urban,Female,36.83,Express,1.34,Medium,24.86
+1294,Product_294,Clothing,90.9,15,18,467,247,46-60,Semi-Urban,Female,178.28,Express,34.54,Medium,76.72
+1295,Product_295,Sports,67.64,15,18,165,241,18-25,Semi-Urban,Male,162.8,Same Day,8.84,Low,79.11
+1296,Product_296,Books,36.03,40,18,408,211,18-25,Urban,Female,112.52,Standard,39.88,High,51.15
+1297,Product_297,Clothing,93.67,0,18,13,259,26-35,Urban,Female,14.58,Standard,32.4,Low,55.71
+1298,Product_298,Electronics,65.65,0,18,202,212,18-25,Urban,Female,135.28,Standard,28.95,High,44.04
+1299,Product_299,Beauty,88.92,15,5,287,203,18-25,Rural,Female,115.94,Express,14.74,High,82.36
+1300,Product_300,Home & Kitchen,79.66,10,18,394,238,46-60,Urban,Male,186.95,Standard,29.02,Low,57.68
+1301,Product_301,Electronics,33.2,5,12,188,253,18-25,Rural,Male,37.69,Same Day,37.74,Low,62.01
+1302,Product_302,Sports,39.01,0,12,401,201,36-45,Urban,Female,240.26,Standard,22.85,Medium,77.59
+1303,Product_303,Electronics,85.49,0,12,154,225,26-35,Semi-Urban,Female,110.55,Express,7.85,Medium,71.54
+1304,Product_304,Home & Kitchen,78.75,20,5,54,258,26-35,Urban,Male,94.08,Express,6.46,Low,76.27
+1305,Product_305,Clothing,53.92,0,18,181,226,36-45,Urban,Female,248.21,Express,10.66,High,68.5
+1306,Product_306,Home & Kitchen,58.58,5,5,209,226,26-35,Semi-Urban,Female,203.26,Standard,9.45,Medium,68.94
+1307,Product_307,Electronics,117.52,0,18,375,214,18-25,Urban,Female,200.64,Standard,2.35,Low,68.75
+1308,Product_308,Home & Kitchen,38.28,5,12,470,207,18-25,Rural,Male,48.3,Standard,7.34,Medium,74.06
+1309,Product_309,Books,75.81,0,5,74,206,36-45,Semi-Urban,Female,152.34,Standard,13.32,Low,75.03
+1310,Product_310,Clothing,48.36,10,18,276,246,18-25,Semi-Urban,Female,20.59,Standard,7.1,Low,40.51
+1311,Product_311,Clothing,47.91,0,5,427,254,18-25,Rural,Male,56.94,Express,41.6,Medium,53.06
+1312,Product_312,Electronics,105.56,20,12,132,245,60+,Semi-Urban,Male,60.85,Standard,20.79,Low,60.93
+1313,Product_313,Sports,89.59,0,18,342,239,60+,Semi-Urban,Male,171.54,Same Day,6.4,Medium,74.04
+1314,Product_314,Books,88.95,10,5,424,259,26-35,Urban,Female,220.12,Standard,23.79,High,96.95
+1315,Product_315,Beauty,119.5,20,18,58,211,18-25,Urban,Male,101.7,Standard,40.11,High,48.74
+1316,Product_316,Clothing,55.29,15,5,344,212,36-45,Semi-Urban,Male,82.15,Standard,28.32,Low,82.57
+1317,Product_317,Books,82.2,10,12,488,242,36-45,Rural,Male,182.69,Express,14.38,Low,53.62
+1318,Product_318,Electronics,45.32,5,18,181,216,18-25,Urban,Male,112.37,Standard,8.02,Medium,92.41
+1319,Product_319,Clothing,66.32,5,12,457,216,18-25,Urban,Male,111.45,Express,10.59,Medium,100.0
+1320,Product_320,Clothing,50.5,15,5,405,255,36-45,Semi-Urban,Female,60.48,Standard,45.84,High,30.04
+1321,Product_321,Clothing,57.87,40,12,338,235,46-60,Urban,Female,113.67,Same Day,5.78,Medium,58.47
+1322,Product_322,Beauty,78.03,15,12,320,220,36-45,Semi-Urban,Female,39.77,Standard,31.93,Low,18.0
+1323,Product_323,Home & Kitchen,33.42,10,18,63,207,18-25,Semi-Urban,Male,64.86,Standard,10.9,Medium,31.2
+1324,Product_324,Electronics,191.6,15,12,326,204,26-35,Urban,Male,266.73,Express,35.6,High,32.45
+1325,Product_325,Clothing,29.86,10,18,259,225,26-35,Rural,Male,90.24,Express,38.69,High,77.48
+1326,Product_326,Clothing,26.35,0,18,192,215,18-25,Urban,Male,166.54,Standard,19.98,Low,73.74
+1327,Product_327,Home & Kitchen,109.38,10,12,142,235,18-25,Semi-Urban,Male,64.0,Express,26.57,Medium,81.02
+1328,Product_328,Clothing,87.79,30,28,103,227,18-25,Urban,Male,259.37,Standard,27.13,Low,77.16
+1329,Product_329,Electronics,79.4,0,12,459,253,26-35,Urban,Other,87.58,Express,18.12,Medium,74.7
+1330,Product_330,Home & Kitchen,79.6,15,28,405,228,26-35,Rural,Male,263.31,Standard,8.58,Low,67.24
+1331,Product_331,Sports,54.2,0,5,213,246,36-45,Urban,Female,50.51,Standard,6.52,High,62.38
+1332,Product_332,Sports,31.87,10,18,241,211,36-45,Urban,Male,71.07,Standard,6.86,Medium,85.39
+1333,Product_333,Books,57.14,0,12,430,236,46-60,Urban,Male,81.19,Express,6.07,High,65.25
+1334,Product_334,Beauty,36.37,10,12,208,229,36-45,Urban,Female,72.95,Same Day,27.49,High,75.5
+1335,Product_335,Electronics,98.01,15,18,92,222,18-25,Urban,Male,187.94,Standard,8.95,Low,18.39
+1336,Product_336,Sports,49.99,5,18,429,215,26-35,Urban,Male,186.26,Express,23.95,Medium,41.5
+1337,Product_337,Clothing,33.27,15,5,141,213,26-35,Rural,Other,122.57,Standard,21.85,High,84.6
+1338,Product_338,Home & Kitchen,45.02,15,12,433,209,18-25,Semi-Urban,Female,165.37,Express,24.79,Medium,51.63
+1339,Product_339,Clothing,69.95,30,18,403,206,46-60,Urban,Male,499.76,Standard,5.93,Medium,37.09
+1340,Product_340,Beauty,38.93,0,18,433,244,18-25,Semi-Urban,Male,139.79,Standard,4.79,Medium,77.83
+1341,Product_341,Clothing,33.34,5,28,111,251,26-35,Urban,Female,182.53,Standard,9.71,Medium,65.03
+1342,Product_342,Electronics,63.19,0,18,416,259,26-35,Urban,Female,52.56,Standard,9.04,Low,56.86
+1343,Product_343,Home & Kitchen,63.24,40,28,374,236,26-35,Urban,Male,64.23,Standard,26.2,Medium,95.18
+1344,Product_344,Electronics,40.28,30,18,58,228,36-45,Urban,Male,31.57,Express,15.67,Low,91.75
+1345,Product_345,Books,41.16,10,12,42,202,26-35,Rural,Female,114.12,Standard,10.92,Low,61.24
+1346,Product_346,Clothing,62.75,20,5,206,214,18-25,Urban,Male,106.58,Same Day,17.37,Low,79.45
+1347,Product_347,Home & Kitchen,22.9,10,18,267,235,18-25,Semi-Urban,Male,22.42,Express,44.25,Low,20.23
+1348,Product_348,Sports,23.47,10,18,295,246,46-60,Urban,Female,119.72,Standard,11.95,Medium,86.87
+1349,Product_349,Home & Kitchen,35.48,0,5,117,245,18-25,Urban,Male,134.26,Standard,6.96,Low,43.27
+1350,Product_350,Clothing,48.04,15,12,19,251,18-25,Semi-Urban,Female,207.47,Express,5.95,Low,35.96
+1351,Product_351,Clothing,65.8,0,28,221,218,26-35,Semi-Urban,Female,77.08,Same Day,24.11,High,29.29
+1352,Product_352,Clothing,132.32,20,18,165,212,18-25,Urban,Female,172.75,Same Day,17.58,High,27.75
+1353,Product_353,Sports,91.34,15,12,130,241,26-35,Urban,Male,157.27,Express,38.61,High,86.61
+1354,Product_354,Beauty,49.6,15,12,155,220,36-45,Urban,Male,155.4,Standard,19.84,High,77.62
+1355,Product_355,Books,53.98,0,12,183,236,36-45,Rural,Male,47.02,Express,72.39,Low,49.68
+1356,Product_356,Electronics,29.92,5,12,89,226,36-45,Urban,Male,93.7,Standard,20.52,Low,82.1
+1357,Product_357,Clothing,54.0,5,12,93,254,18-25,Urban,Female,226.29,Standard,35.08,Low,53.1
+1358,Product_358,Electronics,45.92,5,5,12,251,26-35,Rural,Male,188.33,Express,29.71,High,71.47
+1359,Product_359,Beauty,66.26,0,18,460,228,18-25,Urban,Male,24.05,Express,6.28,High,55.35
+1360,Product_360,Electronics,33.24,30,12,321,219,18-25,Urban,Male,160.86,Same Day,8.28,Low,62.6
+1361,Product_361,Electronics,74.56,10,18,292,224,26-35,Urban,Male,19.66,Standard,11.12,Low,46.84
+1362,Product_362,Home & Kitchen,136.95,5,18,432,205,18-25,Semi-Urban,Female,76.83,Express,6.9,Medium,49.8
+1363,Product_363,Clothing,51.15,5,12,229,235,36-45,Urban,Female,134.15,Express,36.6,Low,75.88
+1364,Product_364,Home & Kitchen,69.48,5,18,321,201,36-45,Urban,Female,137.84,Express,14.53,Medium,79.1
+1365,Product_365,Clothing,82.61,10,12,291,221,46-60,Rural,Female,22.65,Standard,17.53,High,56.72
+1366,Product_366,Clothing,42.92,10,18,437,231,36-45,Urban,Female,45.26,Express,9.9,Medium,34.49
+1367,Product_367,Clothing,62.46,30,12,25,215,18-25,Urban,Male,298.65,Standard,21.53,High,100.0
+1368,Product_368,Sports,55.01,10,18,74,217,26-35,Urban,Male,31.84,Express,10.88,Low,65.73
+1369,Product_369,Clothing,57.89,40,18,455,204,18-25,Semi-Urban,Female,58.82,Express,15.63,Medium,71.24
+1370,Product_370,Clothing,34.34,20,12,363,253,26-35,Rural,Male,1.63,Express,31.16,High,39.77
+1371,Product_371,Clothing,55.41,0,5,423,235,18-25,Urban,Male,337.18,Standard,44.42,Medium,89.3
+1372,Product_372,Electronics,73.61,30,18,298,229,18-25,Urban,Other,37.73,Standard,36.04,Medium,92.36
+1373,Product_373,Sports,130.41,0,18,149,244,26-35,Urban,Male,46.94,Standard,25.31,Medium,30.84
+1374,Product_374,Electronics,97.08,20,12,147,218,36-45,Urban,Female,19.61,Standard,8.82,High,62.95
+1375,Product_375,Sports,198.72,5,18,7,222,36-45,Semi-Urban,Female,90.08,Same Day,7.73,Low,61.39
+1376,Product_376,Clothing,34.45,20,12,28,233,26-35,Urban,Male,73.83,Standard,31.93,Low,100.0
+1377,Product_377,Sports,92.15,20,18,295,212,26-35,Urban,Male,259.18,Standard,19.53,Low,93.87
+1378,Product_378,Beauty,60.95,20,12,473,242,26-35,Urban,Female,242.22,Express,18.4,High,35.98
+1379,Product_379,Home & Kitchen,203.14,15,18,413,253,36-45,Urban,Male,359.64,Standard,21.93,High,50.44
+1380,Product_380,Home & Kitchen,33.62,5,12,208,228,18-25,Semi-Urban,Male,151.1,Express,10.41,Low,47.14
+1381,Product_381,Clothing,32.99,0,12,127,235,36-45,Urban,Female,36.2,Standard,16.22,Low,72.43
+1382,Product_382,Home & Kitchen,38.11,5,5,339,221,26-35,Rural,Male,97.49,Standard,28.62,High,96.44
+1383,Product_383,Clothing,15.27,0,5,115,251,18-25,Urban,Male,46.04,Same Day,2.34,Low,67.18
+1384,Product_384,Clothing,39.83,15,18,438,251,18-25,Rural,Male,25.3,Standard,16.26,Low,75.02
+1385,Product_385,Beauty,34.62,5,12,143,246,18-25,Urban,Female,313.66,Standard,26.97,Low,51.71
+1386,Product_386,Electronics,59.75,40,18,429,235,26-35,Semi-Urban,Male,175.31,Standard,7.62,Low,74.92
+1387,Product_387,Beauty,67.02,10,5,317,208,36-45,Urban,Male,157.81,Standard,17.84,Medium,55.56
+1388,Product_388,Clothing,168.29,20,12,234,238,26-35,Semi-Urban,Male,19.59,Express,9.81,Medium,32.18
+1389,Product_389,Clothing,96.57,0,12,6,250,26-35,Urban,Male,124.25,Express,21.66,Medium,73.62
+1390,Product_390,Sports,38.62,20,5,463,218,46-60,Urban,Female,74.58,Standard,3.24,High,64.8
+1391,Product_391,Home & Kitchen,31.85,30,5,44,237,18-25,Semi-Urban,Female,112.09,Express,35.34,Low,43.06
+1392,Product_392,Home & Kitchen,73.34,10,12,442,205,18-25,Semi-Urban,Male,12.0,Express,14.1,Low,97.91
+1393,Product_393,Home & Kitchen,24.73,10,12,238,251,26-35,Semi-Urban,Male,149.5,Express,9.78,High,49.67
+1394,Product_394,Sports,163.84,15,12,439,246,36-45,Urban,Male,8.72,Standard,24.93,High,77.18
+1395,Product_395,Electronics,110.79,0,18,431,214,26-35,Urban,Female,88.78,Express,3.35,Low,57.75
+1396,Product_396,Home & Kitchen,41.2,10,18,154,256,26-35,Semi-Urban,Male,127.11,Standard,24.12,Low,95.87
+1397,Product_397,Clothing,19.53,5,5,180,219,60+,Urban,Male,174.64,Express,26.93,Low,60.25
+1398,Product_398,Electronics,123.02,0,12,214,208,36-45,Urban,Other,135.37,Same Day,32.41,Medium,31.51
+1399,Product_399,Electronics,50.97,5,28,87,231,18-25,Urban,Male,156.66,Standard,10.55,Low,81.2
+1400,Product_400,Clothing,114.74,0,18,255,203,36-45,Urban,Other,132.34,Standard,16.79,Medium,95.79
+1401,Product_401,Home & Kitchen,20.98,0,18,72,249,18-25,Urban,Male,47.34,Standard,42.67,Low,56.45
+1402,Product_402,Sports,38.11,0,12,418,217,36-45,Semi-Urban,Male,19.17,Standard,27.28,High,78.58
+1403,Product_403,Beauty,54.77,30,18,178,204,18-25,Rural,Female,223.95,Standard,10.78,Low,67.59
+1404,Product_404,Home & Kitchen,56.16,10,18,211,219,36-45,Urban,Male,276.86,Express,11.02,Medium,57.35
+1405,Product_405,Electronics,41.68,30,18,292,222,26-35,Rural,Male,85.56,Standard,31.13,Low,81.82
+1406,Product_406,Clothing,79.34,5,28,233,210,46-60,Semi-Urban,Male,56.5,Standard,27.72,Low,49.0
+1407,Product_407,Clothing,28.77,5,5,464,236,26-35,Rural,Other,11.67,Standard,23.13,Medium,65.65
+1408,Product_408,Home & Kitchen,50.13,10,5,238,221,26-35,Semi-Urban,Male,65.95,Standard,22.15,High,70.15
+1409,Product_409,Electronics,58.68,5,18,222,257,18-25,Semi-Urban,Female,51.35,Standard,15.61,Medium,69.42
+1410,Product_410,Clothing,74.34,0,18,118,203,46-60,Urban,Female,30.1,Express,4.74,Medium,49.49
+1411,Product_411,Sports,83.68,10,5,312,228,36-45,Urban,Female,235.34,Standard,43.98,Low,100.0
+1412,Product_412,Home & Kitchen,27.8,0,12,263,243,18-25,Urban,Female,159.65,Same Day,24.4,Medium,90.24
+1413,Product_413,Beauty,21.75,10,5,206,233,46-60,Rural,Male,161.97,Standard,10.9,Low,84.81
+1414,Product_414,Home & Kitchen,117.52,15,12,94,212,26-35,Rural,Male,90.07,Same Day,7.27,Low,93.66
+1415,Product_415,Electronics,66.65,0,18,372,241,36-45,Semi-Urban,Male,42.14,Standard,10.31,High,66.38
+1416,Product_416,Electronics,34.84,0,18,221,208,36-45,Rural,Male,112.47,Express,37.34,High,57.57
+1417,Product_417,Beauty,138.48,15,12,365,241,18-25,Rural,Male,105.09,Express,14.26,Medium,43.22
+1418,Product_418,Home & Kitchen,58.52,10,12,275,230,60+,Urban,Male,18.47,Express,32.81,High,50.93
+1419,Product_419,Home & Kitchen,110.78,0,5,379,206,26-35,Semi-Urban,Female,162.34,Express,7.1,High,44.72
+1420,Product_420,Electronics,56.86,40,12,230,203,18-25,Urban,Female,98.52,Same Day,9.32,Low,54.44
+1421,Product_421,Home & Kitchen,188.0,0,18,308,218,46-60,Urban,Male,105.24,Express,17.44,High,70.53
+1422,Product_422,Electronics,156.52,15,28,118,241,36-45,Urban,Male,58.6,Express,5.97,Medium,83.28
+1423,Product_423,Electronics,47.02,40,18,267,229,18-25,Urban,Male,77.38,Express,19.27,High,82.73
+1424,Product_424,Clothing,97.8,0,5,432,230,18-25,Semi-Urban,Male,163.31,Express,36.0,Medium,41.57
+1425,Product_425,Clothing,80.42,0,18,272,234,36-45,Urban,Male,288.53,Standard,28.8,Medium,78.78
+1426,Product_426,Electronics,124.11,0,18,63,256,18-25,Rural,Female,296.34,Standard,32.84,Medium,87.88
+1427,Product_427,Electronics,30.6,5,18,297,220,46-60,Urban,Male,73.02,Express,22.36,Low,59.92
+1428,Product_428,Home & Kitchen,82.4,0,12,349,230,36-45,Urban,Male,93.79,Standard,14.77,High,88.96
+1429,Product_429,Home & Kitchen,103.03,15,12,412,218,26-35,Semi-Urban,Male,210.53,Express,12.64,Low,82.52
+1430,Product_430,Clothing,19.01,0,12,402,230,26-35,Semi-Urban,Other,49.91,Standard,10.67,Low,39.71
+1431,Product_431,Clothing,26.84,10,5,493,252,26-35,Urban,Female,30.55,Standard,10.92,Low,100.0
+1432,Product_432,Books,16.06,40,12,10,231,26-35,Urban,Female,114.49,Express,19.1,Low,50.69
+1433,Product_433,Electronics,46.45,20,12,97,201,36-45,Urban,Male,137.63,Standard,25.07,Low,84.15
+1434,Product_434,Electronics,83.98,10,12,433,258,60+,Rural,Male,102.41,Standard,7.76,Low,83.42
+1435,Product_435,Home & Kitchen,134.48,5,18,70,251,26-35,Semi-Urban,Male,70.18,Standard,4.62,Medium,40.52
+1436,Product_436,Electronics,57.08,10,12,363,209,26-35,Urban,Male,136.05,Standard,4.62,Medium,68.58
+1437,Product_437,Home & Kitchen,145.06,10,5,57,201,18-25,Urban,Female,76.75,Express,16.85,Low,83.18
+1438,Product_438,Home & Kitchen,23.85,5,28,289,201,36-45,Rural,Male,94.2,Standard,41.35,Low,40.31
+1439,Product_439,Books,19.65,0,28,250,259,36-45,Semi-Urban,Male,89.0,Express,40.8,High,66.99
+1440,Product_440,Sports,52.81,20,18,275,223,36-45,Semi-Urban,Female,121.98,Standard,1.09,Low,84.85
+1441,Product_441,Sports,68.75,5,28,49,216,18-25,Urban,Male,57.83,Same Day,29.56,Low,86.14
+1442,Product_442,Electronics,53.54,0,18,357,231,46-60,Rural,Female,114.38,Standard,17.73,Low,57.06
+1443,Product_443,Sports,15.79,5,28,215,215,26-35,Semi-Urban,Male,9.6,Standard,13.27,Low,95.89
+1444,Product_444,Electronics,51.76,5,5,393,215,36-45,Semi-Urban,Male,45.21,Standard,27.91,Medium,91.11
+1445,Product_445,Home & Kitchen,24.96,20,12,415,245,36-45,Urban,Male,153.23,Standard,39.23,Low,69.82
+1446,Product_446,Home & Kitchen,81.6,15,12,51,238,36-45,Rural,Female,78.71,Standard,37.64,Medium,51.82
+1447,Product_447,Electronics,68.03,15,12,270,252,26-35,Semi-Urban,Male,76.12,Express,24.52,Low,41.68
+1448,Product_448,Home & Kitchen,31.06,0,5,484,230,26-35,Rural,Male,195.78,Standard,18.99,Medium,72.55
+1449,Product_449,Electronics,40.11,5,18,83,242,18-25,Urban,Male,238.75,Standard,9.69,High,94.29
+1450,Product_450,Clothing,28.92,10,18,386,223,36-45,Urban,Female,173.28,Standard,13.27,Low,62.06
+1451,Product_451,Sports,52.58,0,18,292,200,18-25,Urban,Female,93.1,Express,18.94,Low,47.82
+1452,Product_452,Electronics,96.84,5,5,125,210,26-35,Urban,Male,72.57,Standard,16.14,Low,81.5
+1453,Product_453,Electronics,30.22,15,18,295,254,18-25,Urban,Male,59.85,Standard,10.29,Medium,68.49
+1454,Product_454,Clothing,73.88,0,18,71,220,36-45,Urban,Female,121.3,Standard,19.64,Low,75.32
+1455,Product_455,Sports,39.72,10,12,295,203,26-35,Urban,Female,42.08,Express,15.2,Medium,54.49
+1456,Product_456,Electronics,33.93,0,18,235,206,36-45,Semi-Urban,Female,184.88,Express,18.58,Low,57.6
+1457,Product_457,Clothing,51.2,0,12,55,225,36-45,Urban,Male,143.56,Standard,13.5,Low,54.4
+1458,Product_458,Sports,29.34,0,12,406,246,36-45,Urban,Male,76.06,Standard,14.22,Low,74.98
+1459,Product_459,Electronics,39.17,40,28,359,249,18-25,Rural,Female,75.24,Standard,32.73,Low,58.21
+1460,Product_460,Clothing,26.61,20,12,394,211,36-45,Semi-Urban,Female,74.81,Express,19.26,Low,76.85
+1461,Product_461,Beauty,177.48,30,12,109,230,26-35,Semi-Urban,Female,82.22,Standard,16.46,Low,52.57
+1462,Product_462,Clothing,55.77,10,18,191,216,18-25,Urban,Male,106.23,Express,75.18,Medium,74.95
+1463,Product_463,Beauty,35.88,0,18,391,232,18-25,Urban,Female,113.53,Standard,35.86,Low,79.08
+1464,Product_464,Electronics,62.08,10,5,92,210,18-25,Urban,Female,270.34,Standard,21.65,Medium,71.63
+1465,Product_465,Sports,51.04,10,5,349,227,18-25,Urban,Female,106.06,Standard,26.54,Medium,83.34
+1466,Product_466,Sports,47.82,20,5,55,231,26-35,Rural,Male,69.2,Express,8.41,Medium,55.37
+1467,Product_467,Electronics,78.93,0,18,59,200,18-25,Semi-Urban,Female,245.2,Express,17.37,High,78.85
+1468,Product_468,Electronics,86.01,10,12,137,246,26-35,Urban,Female,93.97,Same Day,44.94,Low,69.67
+1469,Product_469,Books,39.71,0,5,38,227,18-25,Semi-Urban,Female,5.57,Standard,31.26,Low,48.81
+1470,Product_470,Clothing,38.65,5,28,27,252,18-25,Urban,Female,283.2,Standard,7.03,Medium,26.86
+1471,Product_471,Home & Kitchen,46.29,15,18,48,241,46-60,Urban,Other,45.34,Standard,43.55,Medium,31.14
+1472,Product_472,Home & Kitchen,13.72,10,12,419,206,26-35,Rural,Other,133.77,Standard,36.48,Medium,20.83
+1473,Product_473,Beauty,22.0,5,18,124,201,18-25,Urban,Male,87.3,Standard,34.24,Low,73.52
+1474,Product_474,Beauty,123.98,5,18,12,241,26-35,Rural,Female,97.75,Standard,17.94,Medium,58.5
+1475,Product_475,Electronics,146.49,10,5,479,223,18-25,Urban,Female,51.54,Standard,19.23,High,66.74
+1476,Product_476,Electronics,47.02,15,12,35,203,18-25,Semi-Urban,Male,41.14,Standard,18.28,Low,61.39
+1477,Product_477,Sports,77.16,20,18,100,243,18-25,Urban,Male,191.2,Express,7.09,High,76.63
+1478,Product_478,Beauty,65.81,30,12,281,218,60+,Urban,Male,100.35,Standard,25.46,Low,77.22
+1479,Product_479,Home & Kitchen,346.31,15,18,85,225,36-45,Semi-Urban,Female,82.36,Express,7.52,Low,65.86
+1480,Product_480,Books,106.88,5,12,3,210,36-45,Rural,Male,83.61,Standard,36.62,Low,67.07
+1481,Product_481,Home & Kitchen,50.56,15,5,222,239,60+,Semi-Urban,Female,201.78,Express,17.99,Medium,67.87
+1482,Product_482,Electronics,30.77,5,12,337,249,46-60,Semi-Urban,Female,45.81,Standard,12.9,Medium,92.84
+1483,Product_483,Beauty,20.82,5,12,447,242,36-45,Rural,Female,246.65,Standard,29.07,Medium,24.91
+1484,Product_484,Clothing,61.69,20,12,165,210,36-45,Urban,Male,118.32,Same Day,16.2,Medium,51.59
+1485,Product_485,Electronics,34.68,0,5,382,244,26-35,Urban,Male,73.98,Standard,13.47,Low,82.31
+1486,Product_486,Clothing,23.26,30,18,343,202,18-25,Urban,Male,62.77,Express,2.11,Low,87.16
+1487,Product_487,Beauty,37.04,10,28,382,211,26-35,Semi-Urban,Male,57.09,Express,18.08,Low,73.54
+1488,Product_488,Books,28.53,10,18,375,202,26-35,Semi-Urban,Female,55.01,Standard,9.66,High,61.32
+1489,Product_489,Clothing,150.25,15,18,470,241,60+,Semi-Urban,Female,165.54,Express,14.1,Low,100.0
+1490,Product_490,Electronics,92.66,20,12,277,226,26-35,Rural,Male,36.77,Express,11.14,High,68.56
+1491,Product_491,Home & Kitchen,54.34,10,28,129,248,36-45,Semi-Urban,Female,87.48,Standard,9.98,Low,65.62
+1492,Product_492,Beauty,132.68,10,12,30,253,26-35,Urban,Male,112.99,Express,29.43,Low,91.64
+1493,Product_493,Home & Kitchen,57.19,0,28,374,201,18-25,Urban,Male,44.21,Express,43.3,Low,74.51
+1494,Product_494,Home & Kitchen,32.56,10,28,10,248,26-35,Rural,Female,28.99,Standard,25.13,Low,83.8
+1495,Product_495,Home & Kitchen,136.17,0,18,475,215,26-35,Urban,Male,11.96,Standard,40.36,High,86.14
+1496,Product_496,Electronics,75.44,15,28,301,201,26-35,Urban,Female,110.45,Standard,34.71,Medium,57.55
+1497,Product_497,Clothing,29.3,10,18,95,259,26-35,Urban,Female,17.45,Express,3.14,High,100.0
+1498,Product_498,Clothing,48.71,15,12,189,253,18-25,Urban,Female,309.75,Express,22.44,High,15.76
+1499,Product_499,Sports,32.29,0,12,452,229,26-35,Semi-Urban,Male,133.12,Express,4.65,Medium,25.41
+1500,Product_500,Electronics,23.82,0,18,191,219,26-35,Urban,Male,68.99,Standard,33.0,Medium,51.4
+1501,Product_501,Home & Kitchen,95.17,15,5,485,237,26-35,Rural,Male,69.05,Standard,22.06,Medium,56.53
+1502,Product_502,Clothing,171.68,0,18,265,227,26-35,Urban,Other,112.35,Express,58.55,Medium,72.25
+1503,Product_503,Clothing,23.59,0,28,423,224,18-25,Semi-Urban,Male,71.63,Standard,6.16,Low,51.21
+1504,Product_504,Clothing,76.54,0,12,127,231,18-25,Semi-Urban,Male,14.6,Express,27.28,Medium,64.76
+1505,Product_505,Clothing,36.95,30,18,237,209,26-35,Semi-Urban,Female,23.17,Express,22.53,Medium,60.9
+1506,Product_506,Clothing,40.76,15,28,407,259,26-35,Rural,Female,188.71,Standard,44.59,Low,100.0
+1507,Product_507,Beauty,38.27,5,28,354,241,26-35,Urban,Female,64.21,Standard,17.44,Medium,48.9
+1508,Product_508,Clothing,32.51,5,28,427,239,46-60,Urban,Other,94.62,Standard,34.12,High,31.34
+1509,Product_509,Home & Kitchen,56.21,5,18,111,232,18-25,Urban,Male,176.55,Express,27.3,Medium,87.38
+1510,Product_510,Clothing,33.16,15,28,315,212,18-25,Rural,Male,59.39,Express,31.95,Medium,50.72
+1511,Product_511,Clothing,64.22,15,18,445,255,26-35,Rural,Male,13.29,Express,14.62,Low,63.17
+1512,Product_512,Clothing,52.98,0,12,342,240,26-35,Urban,Male,99.41,Standard,26.29,High,52.08
+1513,Product_513,Books,47.31,0,12,144,253,26-35,Semi-Urban,Female,115.58,Standard,11.39,Low,79.74
+1514,Product_514,Clothing,31.67,0,18,64,241,36-45,Urban,Male,45.53,Express,9.78,High,37.51
+1515,Product_515,Electronics,38.63,15,12,246,246,36-45,Urban,Female,32.4,Standard,21.76,High,9.02
+1516,Product_516,Sports,85.9,15,18,222,236,18-25,Semi-Urban,Male,183.61,Express,40.84,High,90.91
+1517,Product_517,Electronics,73.74,5,18,478,253,46-60,Urban,Male,132.45,Standard,23.04,Low,69.95
+1518,Product_518,Beauty,30.37,0,12,489,215,18-25,Urban,Female,61.34,Standard,24.74,Low,86.45
+1519,Product_519,Electronics,57.95,0,18,312,244,26-35,Semi-Urban,Male,29.72,Standard,7.84,High,90.24
+1520,Product_520,Home & Kitchen,85.7,30,18,438,221,36-45,Semi-Urban,Female,149.84,Standard,50.81,High,46.67
+1521,Product_521,Electronics,20.05,5,12,105,256,36-45,Urban,Other,78.24,Express,19.18,High,66.21
+1522,Product_522,Sports,75.64,15,5,180,219,18-25,Semi-Urban,Female,41.52,Standard,4.46,Medium,75.11
+1523,Product_523,Home & Kitchen,36.69,10,5,183,249,26-35,Urban,Male,140.3,Same Day,2.82,Medium,62.83
+1524,Product_524,Clothing,76.89,5,12,225,242,26-35,Urban,Female,83.71,Standard,26.62,Low,58.76
+1525,Product_525,Electronics,34.54,0,28,264,226,18-25,Semi-Urban,Male,119.97,Standard,15.55,High,60.73
+1526,Product_526,Clothing,18.49,0,12,277,240,18-25,Urban,Female,140.86,Standard,2.95,Medium,86.67
+1527,Product_527,Home & Kitchen,20.56,10,18,396,215,26-35,Urban,Male,16.72,Standard,26.26,Low,59.82
+1528,Product_528,Clothing,56.2,15,12,88,233,26-35,Urban,Male,38.62,Standard,24.73,Low,77.0
+1529,Product_529,Electronics,63.81,10,12,175,231,36-45,Rural,Other,170.33,Same Day,35.15,Medium,71.94
+1530,Product_530,Home & Kitchen,31.73,10,18,17,225,18-25,Urban,Male,130.46,Standard,17.36,Medium,45.72
+1531,Product_531,Clothing,80.09,0,18,370,224,36-45,Urban,Female,179.67,Standard,13.67,Low,71.04
+1532,Product_532,Electronics,20.15,30,5,459,201,18-25,Urban,Male,51.74,Standard,20.32,Low,34.23
+1533,Product_533,Electronics,52.48,15,12,423,211,46-60,Urban,Female,87.8,Standard,16.7,Low,73.03
+1534,Product_534,Home & Kitchen,26.4,5,5,400,239,26-35,Semi-Urban,Other,91.19,Standard,28.09,Low,82.82
+1535,Product_535,Books,36.93,40,12,398,208,26-35,Urban,Male,122.31,Same Day,19.41,High,87.43
+1536,Product_536,Electronics,56.17,10,18,105,211,46-60,Semi-Urban,Female,120.11,Standard,59.4,Medium,45.95
+1537,Product_537,Beauty,32.58,10,5,270,225,18-25,Semi-Urban,Female,161.9,Standard,19.86,Medium,54.28
+1538,Product_538,Electronics,43.35,15,12,462,208,18-25,Semi-Urban,Female,88.14,Same Day,14.93,High,70.68
+1539,Product_539,Clothing,99.86,20,12,318,209,26-35,Urban,Male,151.32,Standard,15.32,Low,55.48
+1540,Product_540,Clothing,38.62,15,28,166,231,18-25,Urban,Female,167.68,Standard,19.33,High,26.42
+1541,Product_541,Clothing,90.14,0,28,12,256,26-35,Urban,Male,87.65,Standard,22.6,High,54.17
+1542,Product_542,Clothing,27.72,5,5,336,233,18-25,Urban,Male,67.85,Standard,37.34,Medium,70.6
+1543,Product_543,Sports,75.03,30,18,31,247,46-60,Urban,Male,99.64,Standard,21.44,Medium,86.35
+1544,Product_544,Sports,129.66,0,12,392,219,26-35,Semi-Urban,Female,131.56,Express,37.07,Medium,98.78
+1545,Product_545,Electronics,12.39,5,12,39,238,18-25,Urban,Female,506.04,Express,11.58,High,67.5
+1546,Product_546,Clothing,33.85,5,18,147,259,36-45,Urban,Male,103.11,Express,22.9,Low,76.33
+1547,Product_547,Books,77.19,5,28,217,201,26-35,Urban,Female,53.21,Standard,26.88,Low,84.22
+1548,Product_548,Clothing,48.34,10,28,218,200,26-35,Urban,Female,10.95,Express,12.8,High,23.99
+1549,Product_549,Home & Kitchen,68.22,30,18,468,250,26-35,Rural,Male,166.77,Standard,14.86,High,44.62
+1550,Product_550,Clothing,38.0,0,12,81,259,26-35,Urban,Female,27.64,Standard,20.64,Medium,67.05
+1551,Product_551,Clothing,57.51,0,18,332,235,26-35,Rural,Male,438.08,Standard,62.99,Low,96.12
+1552,Product_552,Electronics,49.73,0,12,207,223,26-35,Semi-Urban,Male,127.51,Standard,27.57,Low,77.6
+1553,Product_553,Sports,110.02,20,18,200,253,18-25,Rural,Male,304.31,Same Day,19.63,Medium,71.59
+1554,Product_554,Sports,63.6,10,12,446,226,60+,Urban,Female,173.53,Express,27.93,High,60.44
+1555,Product_555,Clothing,66.86,5,18,331,201,36-45,Rural,Other,82.47,Express,13.73,Low,73.54
+1556,Product_556,Beauty,42.64,20,12,427,230,18-25,Urban,Male,123.9,Express,34.05,Medium,53.07
+1557,Product_557,Clothing,40.75,20,12,37,256,36-45,Semi-Urban,Male,42.31,Express,24.85,High,49.4
+1558,Product_558,Electronics,42.12,20,28,210,213,26-35,Urban,Female,80.77,Standard,26.81,Low,51.14
+1559,Product_559,Beauty,69.18,30,5,443,201,18-25,Urban,Female,128.81,Standard,31.29,High,91.81
+1560,Product_560,Home & Kitchen,42.41,5,18,326,228,18-25,Semi-Urban,Female,19.39,Express,29.85,Low,48.19
+1561,Product_561,Clothing,64.97,15,12,248,214,18-25,Semi-Urban,Female,71.89,Standard,16.07,High,57.02
+1562,Product_562,Clothing,189.66,10,5,226,211,36-45,Urban,Female,161.65,Same Day,24.04,High,74.42
+1563,Product_563,Books,92.08,20,5,47,236,26-35,Urban,Female,126.87,Standard,12.08,Low,47.4
+1564,Product_564,Sports,44.9,15,12,17,227,26-35,Semi-Urban,Female,36.85,Standard,21.97,High,69.52
+1565,Product_565,Beauty,112.25,15,18,399,219,18-25,Urban,Male,211.0,Standard,6.02,High,69.52
+1566,Product_566,Electronics,42.74,15,12,438,238,26-35,Urban,Female,101.94,Express,8.75,High,52.51
+1567,Product_567,Beauty,16.07,0,28,294,223,26-35,Rural,Male,49.04,Standard,33.74,Medium,59.82
+1568,Product_568,Electronics,29.82,10,18,195,220,36-45,Rural,Male,19.25,Express,13.08,Medium,46.13
+1569,Product_569,Books,17.77,40,12,186,209,60+,Rural,Male,192.15,Standard,10.35,Low,92.66
+1570,Product_570,Electronics,44.22,30,18,344,245,26-35,Semi-Urban,Female,207.56,Express,13.64,Low,70.15
+1571,Product_571,Clothing,55.2,0,18,223,213,26-35,Urban,Female,149.31,Standard,21.78,Medium,44.03
+1572,Product_572,Clothing,149.29,0,18,317,236,26-35,Rural,Female,92.59,Standard,33.8,Low,67.53
+1573,Product_573,Beauty,66.43,0,12,487,217,36-45,Urban,Male,118.11,Standard,17.4,Medium,68.43
+1574,Product_574,Beauty,47.87,15,12,396,223,18-25,Urban,Female,157.27,Standard,29.19,Medium,20.14
+1575,Product_575,Clothing,89.81,20,18,364,213,26-35,Semi-Urban,Male,58.52,Standard,2.31,High,91.81
+1576,Product_576,Home & Kitchen,14.49,0,28,336,233,36-45,Urban,Female,66.2,Express,20.27,High,45.21
+1577,Product_577,Beauty,62.89,10,18,496,257,18-25,Urban,Male,110.7,Standard,8.47,Low,100.0
+1578,Product_578,Electronics,86.71,20,12,228,211,18-25,Urban,Female,56.39,Standard,29.28,Medium,80.91
+1579,Product_579,Beauty,22.48,15,18,389,221,26-35,Urban,Female,58.13,Standard,5.99,High,42.46
+1580,Product_580,Sports,108.45,10,12,466,255,18-25,Semi-Urban,Female,113.91,Standard,27.96,Low,58.71
+1581,Product_581,Electronics,66.89,10,12,76,205,26-35,Urban,Female,189.36,Standard,7.91,Low,83.45
+1582,Product_582,Electronics,42.56,10,12,187,235,26-35,Urban,Female,185.01,Standard,16.25,High,60.24
+1583,Product_583,Clothing,79.81,5,18,345,244,26-35,Urban,Male,98.91,Standard,12.73,Low,88.56
+1584,Product_584,Electronics,213.24,10,12,269,235,18-25,Urban,Female,88.21,Standard,29.04,High,57.48
+1585,Product_585,Clothing,60.89,15,12,94,221,46-60,Urban,Male,231.76,Standard,42.93,High,63.43
+1586,Product_586,Home & Kitchen,63.37,20,18,309,213,18-25,Rural,Male,142.84,Express,5.21,Medium,84.0
+1587,Product_587,Home & Kitchen,41.45,10,12,131,215,36-45,Urban,Male,30.51,Standard,1.69,High,77.07
+1588,Product_588,Electronics,32.79,15,5,38,235,18-25,Rural,Female,41.49,Standard,11.12,Low,46.5
+1589,Product_589,Home & Kitchen,89.86,0,5,71,255,26-35,Urban,Male,152.47,Standard,4.28,High,73.68
+1590,Product_590,Home & Kitchen,32.67,10,28,280,224,18-25,Urban,Male,179.57,Standard,11.45,High,68.35
+1591,Product_591,Sports,56.99,0,18,332,231,18-25,Urban,Other,14.49,Standard,8.13,Low,46.77
+1592,Product_592,Electronics,40.99,0,12,159,232,18-25,Urban,Female,86.66,Express,15.75,Medium,37.19
+1593,Product_593,Home & Kitchen,72.78,15,18,186,244,26-35,Urban,Male,44.03,Standard,9.26,Medium,26.37
+1594,Product_594,Sports,66.7,40,18,485,235,26-35,Urban,Female,113.0,Same Day,27.11,Low,59.11
+1595,Product_595,Clothing,101.75,0,12,190,219,18-25,Urban,Male,227.03,Standard,55.98,High,63.92
+1596,Product_596,Clothing,40.2,5,18,421,217,60+,Urban,Female,30.27,Express,18.83,Medium,75.09
+1597,Product_597,Electronics,46.44,20,18,119,237,18-25,Semi-Urban,Female,58.68,Express,18.5,Medium,81.41
+1598,Product_598,Sports,30.35,0,18,219,202,26-35,Rural,Female,81.13,Standard,33.72,Low,56.72
+1599,Product_599,Clothing,41.82,10,12,52,222,18-25,Urban,Female,31.47,Standard,36.33,Medium,63.34
+1600,Product_600,Sports,68.47,15,18,221,231,26-35,Semi-Urban,Male,14.26,Standard,0.95,High,49.83
+1601,Product_601,Beauty,85.99,10,18,450,244,36-45,Semi-Urban,Male,46.19,Express,15.54,Medium,66.74
+1602,Product_602,Clothing,31.4,0,12,411,258,26-35,Urban,Female,338.91,Standard,14.6,High,84.37
+1603,Product_603,Home & Kitchen,92.0,5,12,130,215,18-25,Rural,Male,75.56,Standard,16.98,Medium,67.02
+1604,Product_604,Electronics,123.15,15,5,236,258,18-25,Rural,Other,76.29,Standard,34.42,Low,88.27
+1605,Product_605,Clothing,69.97,10,5,245,204,36-45,Urban,Male,151.47,Standard,18.02,Medium,84.04
+1606,Product_606,Home & Kitchen,168.36,0,18,225,203,18-25,Semi-Urban,Male,84.33,Same Day,12.88,Low,94.15
+1607,Product_607,Home & Kitchen,34.32,15,5,207,220,26-35,Semi-Urban,Female,240.05,Express,37.36,Low,67.58
+1608,Product_608,Clothing,25.87,0,12,405,239,18-25,Urban,Male,110.85,Standard,23.38,Low,54.35
+1609,Product_609,Beauty,18.78,15,18,95,250,18-25,Urban,Male,51.1,Standard,19.22,High,77.42
+1610,Product_610,Electronics,133.97,0,5,421,213,18-25,Rural,Male,157.92,Standard,25.68,High,57.54
+1611,Product_611,Clothing,80.85,30,28,199,238,46-60,Semi-Urban,Other,28.03,Express,3.41,Low,76.8
+1612,Product_612,Clothing,52.81,5,12,246,230,36-45,Urban,Male,69.16,Same Day,9.22,Low,51.74
+1613,Product_613,Clothing,64.58,5,12,71,213,26-35,Urban,Male,40.62,Standard,6.28,Low,48.43
+1614,Product_614,Books,27.79,0,12,317,205,18-25,Rural,Male,34.1,Standard,36.95,High,89.33
+1615,Product_615,Home & Kitchen,236.86,5,12,184,211,26-35,Urban,Male,205.56,Same Day,9.53,Medium,44.75
+1616,Product_616,Clothing,59.0,20,5,5,215,26-35,Semi-Urban,Male,177.78,Standard,16.81,Medium,85.44
+1617,Product_617,Clothing,58.3,40,18,205,216,26-35,Urban,Female,112.74,Standard,11.06,Medium,76.72
+1618,Product_618,Electronics,84.39,5,28,31,244,18-25,Urban,Other,302.91,Standard,7.45,Medium,66.89
+1619,Product_619,Clothing,72.86,5,12,98,222,60+,Urban,Male,48.27,Standard,45.98,Low,27.15
+1620,Product_620,Home & Kitchen,62.45,15,18,393,213,26-35,Urban,Female,156.25,Standard,24.49,Low,94.71
+1621,Product_621,Sports,33.98,20,18,386,206,46-60,Urban,Other,236.71,Same Day,53.11,Low,46.3
+1622,Product_622,Beauty,72.45,10,18,255,245,18-25,Semi-Urban,Male,105.81,Standard,16.37,Medium,84.06
+1623,Product_623,Clothing,168.88,5,12,186,231,18-25,Semi-Urban,Male,89.71,Standard,10.62,High,51.18
+1624,Product_624,Clothing,122.39,5,12,75,214,18-25,Urban,Female,57.61,Standard,33.45,Low,49.58
+1625,Product_625,Electronics,142.01,15,12,176,243,36-45,Semi-Urban,Female,155.96,Express,4.32,Low,78.37
+1626,Product_626,Electronics,40.18,0,18,314,216,26-35,Urban,Male,24.18,Standard,24.27,High,75.77
+1627,Product_627,Clothing,30.15,10,18,286,240,36-45,Urban,Male,15.08,Standard,25.2,Low,42.1
+1628,Product_628,Clothing,50.63,5,12,348,253,36-45,Urban,Male,134.7,Standard,41.98,Low,93.74
+1629,Product_629,Clothing,56.45,15,12,254,246,36-45,Urban,Male,44.67,Express,13.33,High,60.88
+1630,Product_630,Home & Kitchen,105.27,0,28,324,243,36-45,Rural,Female,49.83,Standard,20.0,Medium,66.38
+1631,Product_631,Home & Kitchen,19.78,10,18,189,233,36-45,Semi-Urban,Female,38.33,Standard,14.87,Medium,59.06
+1632,Product_632,Clothing,136.69,10,28,307,204,36-45,Urban,Female,113.51,Standard,19.29,High,42.94
+1633,Product_633,Beauty,49.66,10,18,344,244,26-35,Semi-Urban,Male,103.0,Standard,5.46,Medium,79.7
+1634,Product_634,Electronics,42.26,0,12,126,226,36-45,Urban,Male,37.24,Same Day,37.69,Low,70.79
+1635,Product_635,Clothing,29.75,10,18,424,251,46-60,Urban,Male,100.01,Express,20.4,Medium,48.9
+1636,Product_636,Beauty,20.23,10,18,286,222,26-35,Urban,Female,107.78,Standard,37.61,Medium,83.88
+1637,Product_637,Clothing,89.47,10,5,253,239,46-60,Semi-Urban,Female,76.03,Standard,34.3,High,66.1
+1638,Product_638,Sports,57.05,10,18,212,258,18-25,Urban,Male,184.61,Standard,33.8,High,66.53
+1639,Product_639,Electronics,25.18,15,18,249,213,26-35,Rural,Male,82.1,Standard,15.79,Low,100.0
+1640,Product_640,Home & Kitchen,25.1,20,12,83,214,18-25,Urban,Female,128.31,Express,5.26,Medium,32.84
+1641,Product_641,Home & Kitchen,44.64,5,18,486,242,18-25,Urban,Female,84.91,Standard,11.03,Low,32.58
+1642,Product_642,Home & Kitchen,148.62,20,18,382,232,36-45,Rural,Male,105.61,Standard,19.43,Low,37.08
+1643,Product_643,Beauty,46.72,10,28,405,252,46-60,Urban,Male,83.01,Same Day,22.74,Medium,72.27
+1644,Product_644,Home & Kitchen,22.16,0,5,387,230,36-45,Semi-Urban,Male,39.65,Standard,35.6,Medium,57.82
+1645,Product_645,Beauty,47.11,0,12,12,234,60+,Semi-Urban,Female,66.89,Standard,34.83,Medium,59.41
+1646,Product_646,Clothing,46.36,5,18,44,216,18-25,Rural,Female,191.87,Express,18.42,Medium,46.15
+1647,Product_647,Clothing,10.83,15,12,126,227,18-25,Urban,Female,230.48,Express,23.58,High,98.31
+1648,Product_648,Home & Kitchen,52.85,15,18,425,218,26-35,Urban,Female,127.74,Express,11.4,High,100.0
+1649,Product_649,Home & Kitchen,47.53,15,18,113,245,36-45,Semi-Urban,Other,111.27,Express,27.11,Medium,82.98
+1650,Product_650,Books,82.91,10,5,432,253,18-25,Semi-Urban,Male,25.47,Standard,32.64,Low,34.85
+1651,Product_651,Electronics,165.57,5,18,275,222,60+,Semi-Urban,Male,109.48,Standard,18.6,High,55.26
+1652,Product_652,Clothing,107.33,0,18,499,231,26-35,Urban,Male,34.56,Standard,33.52,High,81.55
+1653,Product_653,Home & Kitchen,46.46,5,12,204,239,60+,Urban,Male,70.87,Express,21.11,Low,64.08
+1654,Product_654,Sports,28.11,5,28,336,212,26-35,Urban,Female,110.44,Standard,23.78,Medium,83.04
+1655,Product_655,Sports,255.7,0,18,437,258,26-35,Urban,Female,54.08,Standard,38.69,High,89.96
+1656,Product_656,Clothing,56.57,0,18,419,219,36-45,Urban,Female,103.24,Same Day,43.72,Medium,100.0
+1657,Product_657,Electronics,55.06,10,18,480,234,36-45,Urban,Male,67.67,Standard,14.94,Medium,51.9
+1658,Product_658,Clothing,53.81,15,12,384,204,18-25,Urban,Male,105.48,Standard,48.96,Low,66.63
+1659,Product_659,Clothing,61.49,40,28,398,208,46-60,Semi-Urban,Male,331.46,Standard,55.98,Medium,56.18
+1660,Product_660,Books,50.07,30,18,460,228,46-60,Semi-Urban,Female,165.3,Standard,41.47,Medium,24.98
+1661,Product_661,Clothing,38.7,10,18,272,205,18-25,Urban,Male,72.1,Standard,8.07,Low,79.03
+1662,Product_662,Clothing,39.33,5,18,407,224,18-25,Urban,Male,279.19,Standard,2.54,Medium,76.27
+1663,Product_663,Clothing,53.54,10,12,57,230,26-35,Semi-Urban,Male,162.3,Standard,14.78,Low,54.06
+1664,Product_664,Clothing,39.41,15,18,327,221,26-35,Urban,Other,54.75,Standard,26.8,Medium,33.04
+1665,Product_665,Beauty,35.6,0,12,497,201,36-45,Semi-Urban,Female,50.11,Standard,20.12,High,57.32
+1666,Product_666,Electronics,58.2,5,12,218,244,18-25,Semi-Urban,Female,169.57,Standard,6.9,Medium,79.62
+1667,Product_667,Clothing,46.85,20,12,108,204,26-35,Rural,Female,98.26,Standard,23.67,Medium,91.75
+1668,Product_668,Books,134.61,5,28,278,259,26-35,Semi-Urban,Female,34.0,Standard,7.02,Medium,50.75
+1669,Product_669,Electronics,11.13,10,18,173,226,18-25,Urban,Male,89.17,Standard,7.94,Low,87.15
+1670,Product_670,Home & Kitchen,105.1,10,18,327,224,26-35,Semi-Urban,Male,62.23,Express,13.96,High,77.45
+1671,Product_671,Clothing,115.31,0,18,263,207,18-25,Urban,Female,44.66,Express,25.85,Low,73.26
+1672,Product_672,Home & Kitchen,15.74,5,18,314,254,18-25,Urban,Female,76.98,Standard,17.64,Low,39.13
+1673,Product_673,Electronics,44.45,5,28,473,200,26-35,Urban,Male,93.87,Standard,23.06,Medium,40.0
+1674,Product_674,Clothing,43.69,0,12,110,219,60+,Urban,Male,254.42,Standard,32.64,Medium,48.38
+1675,Product_675,Clothing,23.46,0,12,186,243,18-25,Urban,Female,182.84,Express,45.86,Low,58.47
+1676,Product_676,Electronics,34.24,20,12,268,222,26-35,Urban,Male,86.79,Same Day,14.3,Low,100.0
+1677,Product_677,Clothing,28.04,5,18,422,231,18-25,Semi-Urban,Female,14.33,Standard,4.17,High,51.76
+1678,Product_678,Electronics,156.24,10,18,228,210,18-25,Rural,Male,46.34,Express,3.85,Low,80.43
+1679,Product_679,Home & Kitchen,95.72,5,12,496,238,26-35,Urban,Male,85.89,Express,23.25,Low,55.7
+1680,Product_680,Sports,117.09,30,5,155,246,36-45,Urban,Male,26.64,Standard,27.41,Low,74.45
+1681,Product_681,Electronics,84.18,5,18,472,253,18-25,Urban,Female,68.42,Standard,27.68,Low,63.74
+1682,Product_682,Electronics,27.73,5,5,188,223,60+,Rural,Female,138.76,Standard,32.26,Medium,68.54
+1683,Product_683,Beauty,39.86,20,18,271,210,18-25,Urban,Male,133.22,Standard,9.56,Medium,72.39
+1684,Product_684,Home & Kitchen,73.23,20,28,374,228,46-60,Rural,Female,49.95,Standard,11.75,High,60.01
+1685,Product_685,Electronics,26.23,0,12,1,253,46-60,Urban,Male,80.49,Express,14.43,Low,72.49
+1686,Product_686,Clothing,83.75,20,12,245,225,26-35,Semi-Urban,Male,80.28,Standard,15.85,Low,89.68
+1687,Product_687,Electronics,47.27,10,18,209,215,18-25,Urban,Female,207.13,Standard,23.66,Low,49.92
+1688,Product_688,Electronics,43.6,10,18,400,234,26-35,Urban,Male,126.12,Express,16.24,Low,88.72
+1689,Product_689,Sports,83.64,0,18,285,219,26-35,Urban,Female,45.89,Standard,3.14,Low,59.7
+1690,Product_690,Beauty,71.28,0,28,358,245,46-60,Urban,Female,94.11,Standard,37.57,Low,57.58
+1691,Product_691,Home & Kitchen,43.97,15,5,12,202,26-35,Semi-Urban,Female,105.84,Standard,15.44,Low,78.99
+1692,Product_692,Electronics,109.46,10,18,95,200,26-35,Semi-Urban,Female,119.58,Standard,19.04,Medium,58.18
+1693,Product_693,Electronics,28.54,5,18,497,257,36-45,Urban,Female,61.53,Standard,39.98,Low,71.38
+1694,Product_694,Sports,79.01,15,18,220,252,60+,Rural,Male,154.47,Express,20.23,Low,69.51
+1695,Product_695,Electronics,77.93,15,12,237,246,26-35,Urban,Male,63.29,Standard,1.8,Low,23.33
+1696,Product_696,Clothing,45.34,0,18,93,200,46-60,Rural,Male,209.68,Standard,36.15,Low,73.35
+1697,Product_697,Clothing,66.4,10,18,337,216,26-35,Urban,Female,118.86,Standard,8.18,Medium,36.18
+1698,Product_698,Home & Kitchen,25.77,0,12,268,201,36-45,Rural,Male,96.35,Same Day,8.84,Low,37.7
+1699,Product_699,Clothing,95.05,15,5,170,228,36-45,Urban,Male,183.56,Express,21.51,Low,72.33
+1700,Product_700,Clothing,48.86,15,18,468,219,36-45,Urban,Female,38.91,Same Day,14.28,Low,75.73
+1701,Product_701,Sports,39.9,30,12,93,205,26-35,Urban,Female,205.94,Standard,2.22,Low,89.1
+1702,Product_702,Home & Kitchen,102.45,0,12,148,207,26-35,Urban,Other,182.05,Express,23.42,High,43.21
+1703,Product_703,Electronics,35.78,0,12,111,228,26-35,Semi-Urban,Female,151.49,Express,27.46,High,50.17
+1704,Product_704,Home & Kitchen,23.45,5,18,54,247,26-35,Urban,Male,53.78,Express,15.32,Low,74.29
+1705,Product_705,Electronics,21.46,5,18,336,250,26-35,Rural,Female,160.63,Standard,14.47,Medium,89.49
+1706,Product_706,Clothing,78.54,0,18,423,232,36-45,Rural,Male,215.79,Standard,12.41,Low,68.84
+1707,Product_707,Home & Kitchen,25.32,30,12,466,202,26-35,Rural,Male,109.16,Standard,41.48,Low,47.44
+1708,Product_708,Clothing,156.47,0,18,115,259,18-25,Rural,Female,119.09,Standard,49.73,Low,95.13
+1709,Product_709,Clothing,15.66,5,18,142,234,36-45,Semi-Urban,Female,56.27,Express,17.59,High,59.75
+1710,Product_710,Home & Kitchen,151.09,15,18,200,204,46-60,Rural,Female,124.14,Standard,39.73,Low,60.38
+1711,Product_711,Sports,61.97,5,28,179,226,26-35,Rural,Other,45.19,Standard,27.77,High,36.28
+1712,Product_712,Clothing,51.52,15,5,201,243,18-25,Urban,Female,156.8,Standard,21.72,Medium,79.48
+1713,Product_713,Electronics,39.37,0,18,363,211,46-60,Semi-Urban,Male,134.46,Standard,2.04,Low,82.05
+1714,Product_714,Clothing,69.37,10,5,478,219,46-60,Rural,Female,61.16,Standard,9.91,High,50.88
+1715,Product_715,Clothing,53.38,0,18,52,244,18-25,Semi-Urban,Female,172.36,Standard,13.96,High,100.0
+1716,Product_716,Clothing,105.85,0,12,470,219,18-25,Urban,Other,90.43,Express,13.53,High,53.26
+1717,Product_717,Clothing,58.47,30,12,383,208,26-35,Urban,Male,106.35,Standard,34.99,Medium,77.51
+1718,Product_718,Home & Kitchen,59.75,0,12,179,238,36-45,Semi-Urban,Male,102.41,Express,7.63,Low,69.47
+1719,Product_719,Electronics,43.9,10,18,413,203,18-25,Rural,Female,90.38,Standard,38.41,Low,24.49
+1720,Product_720,Clothing,52.76,5,12,416,250,26-35,Urban,Male,60.86,Express,18.65,Low,75.88
+1721,Product_721,Clothing,65.67,5,18,312,253,26-35,Urban,Female,124.03,Standard,21.06,Medium,74.08
+1722,Product_722,Clothing,19.57,20,12,307,218,46-60,Urban,Male,165.64,Standard,5.2,High,29.67
+1723,Product_723,Books,24.31,0,5,136,237,26-35,Semi-Urban,Male,155.89,Standard,9.14,Medium,95.51
+1724,Product_724,Clothing,85.28,15,18,181,226,26-35,Urban,Female,40.45,Standard,21.39,High,74.16
+1725,Product_725,Sports,60.49,30,12,366,244,60+,Semi-Urban,Male,90.39,Standard,18.71,Low,89.79
+1726,Product_726,Sports,48.89,10,12,0,242,18-25,Rural,Female,51.46,Express,14.28,Medium,30.68
+1727,Product_727,Beauty,55.21,30,18,43,212,18-25,Semi-Urban,Male,111.96,Standard,6.19,High,56.79
+1728,Product_728,Electronics,67.26,0,12,226,212,36-45,Urban,Male,26.83,Standard,29.23,Medium,88.61
+1729,Product_729,Sports,39.49,5,5,330,259,18-25,Rural,Male,27.7,Express,2.52,Medium,33.63
+1730,Product_730,Electronics,34.23,5,12,97,256,36-45,Semi-Urban,Female,60.7,Standard,40.27,Medium,57.38
+1731,Product_731,Electronics,61.41,15,28,207,221,18-25,Urban,Male,212.75,Standard,28.05,Medium,73.13
+1732,Product_732,Clothing,30.36,40,18,264,227,18-25,Urban,Female,106.35,Express,11.65,High,27.11
+1733,Product_733,Electronics,69.75,5,18,287,251,46-60,Semi-Urban,Female,57.16,Standard,20.58,Medium,38.57
+1734,Product_734,Electronics,19.66,15,18,270,246,26-35,Semi-Urban,Female,134.13,Express,46.75,Low,92.64
+1735,Product_735,Clothing,101.24,0,12,139,252,36-45,Rural,Female,117.64,Express,25.98,Medium,66.2
+1736,Product_736,Electronics,72.5,10,12,480,244,18-25,Urban,Male,231.27,Express,18.85,Low,88.53
+1737,Product_737,Home & Kitchen,63.66,10,18,236,221,18-25,Urban,Male,118.0,Express,49.78,Medium,68.64
+1738,Product_738,Electronics,98.46,40,5,461,242,36-45,Urban,Female,77.82,Standard,40.11,Low,100.0
+1739,Product_739,Clothing,148.31,10,12,440,218,26-35,Semi-Urban,Male,160.81,Standard,23.91,High,73.77
+1740,Product_740,Books,100.35,5,12,391,207,26-35,Semi-Urban,Female,40.19,Same Day,15.35,High,90.4
+1741,Product_741,Clothing,18.09,0,12,71,251,18-25,Urban,Female,82.72,Standard,3.45,Low,60.08
+1742,Product_742,Home & Kitchen,25.34,0,28,154,207,26-35,Urban,Male,66.51,Standard,13.21,Low,69.21
+1743,Product_743,Books,37.53,0,5,189,241,36-45,Rural,Female,48.35,Express,7.77,Medium,77.84
+1744,Product_744,Electronics,55.46,5,18,267,225,36-45,Rural,Female,61.14,Standard,5.29,High,81.16
+1745,Product_745,Clothing,74.48,20,12,320,247,36-45,Urban,Male,76.34,Standard,15.44,Low,64.22
+1746,Product_746,Sports,35.32,10,28,106,250,36-45,Semi-Urban,Female,114.76,Standard,28.82,Low,65.05
+1747,Product_747,Sports,61.07,10,5,231,225,26-35,Semi-Urban,Male,14.48,Standard,8.87,Medium,75.04
+1748,Product_748,Home & Kitchen,34.7,0,12,41,222,26-35,Urban,Female,93.03,Standard,19.09,Medium,75.03
+1749,Product_749,Electronics,37.83,20,18,189,242,36-45,Urban,Female,112.72,Same Day,25.57,Low,44.5
+1750,Product_750,Sports,23.48,15,18,370,212,18-25,Urban,Female,174.37,Express,26.25,Medium,69.5
+1751,Product_751,Electronics,31.38,0,12,138,227,18-25,Urban,Female,42.21,Express,8.01,High,71.42
+1752,Product_752,Clothing,24.26,15,12,102,208,46-60,Semi-Urban,Female,150.02,Standard,33.92,Low,45.47
+1753,Product_753,Clothing,30.4,10,12,170,219,18-25,Urban,Female,60.24,Standard,32.03,Medium,83.12
+1754,Product_754,Clothing,102.74,0,12,350,255,18-25,Urban,Female,47.18,Standard,27.18,Low,73.25
+1755,Product_755,Beauty,30.89,10,12,272,218,26-35,Urban,Female,67.99,Standard,14.74,Low,100.0
+1756,Product_756,Beauty,264.92,10,12,480,247,36-45,Urban,Female,76.56,Standard,34.41,Low,64.48
+1757,Product_757,Home & Kitchen,73.4,0,12,415,238,26-35,Semi-Urban,Female,46.17,Standard,6.59,Medium,87.72
+1758,Product_758,Electronics,61.0,30,12,220,250,26-35,Urban,Other,219.05,Standard,38.74,High,75.78
+1759,Product_759,Home & Kitchen,32.62,20,18,212,211,60+,Urban,Female,98.96,Standard,2.99,Medium,100.0
+1760,Product_760,Home & Kitchen,83.11,15,28,340,214,36-45,Rural,Female,183.04,Same Day,37.81,Low,45.6
+1761,Product_761,Clothing,38.65,10,18,423,230,36-45,Urban,Male,117.56,Standard,5.1,Low,55.09
+1762,Product_762,Sports,58.74,5,5,406,254,18-25,Semi-Urban,Female,305.63,Express,8.38,Medium,46.29
+1763,Product_763,Beauty,253.67,15,5,55,213,18-25,Urban,Female,211.46,Standard,18.63,Low,63.44
+1764,Product_764,Home & Kitchen,51.54,10,28,389,210,26-35,Rural,Female,73.37,Standard,25.12,Low,42.51
+1765,Product_765,Electronics,108.81,0,12,341,225,18-25,Semi-Urban,Male,61.7,Standard,12.03,Medium,34.48
+1766,Product_766,Home & Kitchen,35.81,10,5,433,241,18-25,Urban,Female,128.76,Standard,4.38,High,22.33
+1767,Product_767,Sports,53.46,20,18,101,226,18-25,Semi-Urban,Male,123.73,Standard,2.13,Low,21.05
+1768,Product_768,Clothing,157.98,10,18,420,210,26-35,Urban,Male,83.61,Standard,22.78,Medium,78.13
+1769,Product_769,Beauty,37.48,0,18,492,237,36-45,Rural,Female,268.44,Express,17.05,Low,55.89
+1770,Product_770,Clothing,161.98,15,12,191,233,36-45,Urban,Female,240.42,Standard,57.91,Medium,40.32
+1771,Product_771,Home & Kitchen,83.48,0,5,498,242,18-25,Semi-Urban,Male,108.87,Standard,10.55,Medium,51.82
+1772,Product_772,Home & Kitchen,38.96,5,28,309,218,26-35,Urban,Female,222.66,Standard,34.09,High,54.44
+1773,Product_773,Home & Kitchen,79.79,0,12,199,205,18-25,Semi-Urban,Male,63.64,Standard,10.32,Medium,45.71
+1774,Product_774,Sports,97.86,5,18,232,245,26-35,Rural,Male,128.8,Express,6.77,Low,97.11
+1775,Product_775,Electronics,79.29,15,18,432,251,26-35,Rural,Male,94.23,Standard,10.84,Low,93.34
+1776,Product_776,Clothing,21.28,10,18,226,237,26-35,Urban,Female,73.83,Standard,35.92,Low,96.77
+1777,Product_777,Home & Kitchen,35.29,0,12,370,248,46-60,Urban,Male,41.99,Standard,10.96,Medium,68.58
+1778,Product_778,Electronics,47.06,20,12,138,241,36-45,Urban,Male,145.35,Express,28.26,High,70.61
+1779,Product_779,Clothing,52.21,20,18,343,227,26-35,Urban,Female,39.46,Standard,18.29,Medium,51.95
+1780,Product_780,Electronics,79.23,20,18,304,200,46-60,Urban,Male,156.68,Express,6.16,Medium,48.06
+1781,Product_781,Electronics,60.74,0,28,148,234,36-45,Urban,Female,93.73,Standard,11.15,Low,65.43
+1782,Product_782,Home & Kitchen,24.5,10,5,114,239,36-45,Urban,Female,366.76,Express,6.74,Medium,78.05
+1783,Product_783,Home & Kitchen,68.59,40,12,449,207,26-35,Urban,Female,148.84,Same Day,5.1,Low,88.92
+1784,Product_784,Electronics,78.76,15,28,62,258,26-35,Urban,Male,127.32,Express,5.95,Low,54.08
+1785,Product_785,Electronics,76.39,0,18,103,251,36-45,Urban,Female,126.11,Standard,16.22,Medium,39.95
+1786,Product_786,Electronics,104.42,0,18,338,253,18-25,Urban,Female,26.6,Standard,31.73,High,79.68
+1787,Product_787,Clothing,90.05,10,12,358,246,36-45,Semi-Urban,Male,16.19,Standard,7.35,Low,28.64
+1788,Product_788,Electronics,71.92,30,18,155,255,46-60,Urban,Male,77.23,Standard,25.59,Medium,64.22
+1789,Product_789,Clothing,52.35,10,18,272,206,36-45,Urban,Female,114.99,Standard,5.48,High,66.79
+1790,Product_790,Home & Kitchen,20.15,10,18,5,210,18-25,Urban,Male,197.29,Express,14.35,Low,57.42
+1791,Product_791,Home & Kitchen,70.65,0,12,146,238,26-35,Urban,Female,68.08,Standard,21.29,High,34.1
+1792,Product_792,Clothing,61.84,15,5,183,203,36-45,Semi-Urban,Female,856.94,Standard,35.97,Low,57.69
+1793,Product_793,Home & Kitchen,64.26,20,18,485,224,60+,Urban,Male,54.17,Express,10.52,Low,97.85
+1794,Product_794,Sports,25.38,5,12,27,211,26-35,Urban,Male,82.26,Standard,22.61,Low,76.83
+1795,Product_795,Clothing,28.54,15,12,449,225,36-45,Rural,Other,98.35,Express,17.3,Low,88.23
+1796,Product_796,Clothing,102.71,30,28,37,237,46-60,Rural,Male,97.82,Express,12.34,Medium,40.66
+1797,Product_797,Home & Kitchen,53.32,0,12,118,245,18-25,Urban,Female,42.75,Same Day,2.13,High,70.11
+1798,Product_798,Electronics,82.18,10,18,292,211,36-45,Urban,Male,131.42,Express,6.39,Low,66.77
+1799,Product_799,Home & Kitchen,55.53,5,12,370,242,26-35,Urban,Female,109.67,Standard,8.74,Low,67.15
+1800,Product_800,Beauty,55.58,15,18,243,250,26-35,Urban,Female,143.61,Standard,4.51,Low,76.12
+1801,Product_801,Clothing,95.87,10,28,67,252,26-35,Urban,Male,17.31,Standard,19.63,Medium,67.95
+1802,Product_802,Home & Kitchen,40.06,10,5,213,236,36-45,Semi-Urban,Male,112.65,Standard,9.38,Low,41.21
+1803,Product_803,Home & Kitchen,57.84,15,5,217,245,36-45,Urban,Female,11.57,Standard,8.84,Medium,77.27
+1804,Product_804,Electronics,41.37,5,12,176,252,26-35,Rural,Female,87.01,Express,8.81,Medium,81.82
+1805,Product_805,Electronics,42.07,30,5,298,223,46-60,Urban,Male,128.21,Standard,2.92,Medium,91.39
+1806,Product_806,Sports,45.35,10,18,163,215,36-45,Urban,Female,161.97,Standard,18.05,High,92.27
+1807,Product_807,Sports,62.38,0,28,57,256,36-45,Semi-Urban,Male,78.58,Express,35.09,Low,74.53
+1808,Product_808,Beauty,40.97,15,12,268,212,26-35,Urban,Female,65.52,Standard,64.39,High,42.14
+1809,Product_809,Sports,115.98,15,12,307,224,18-25,Urban,Female,33.88,Standard,10.1,Low,34.41
+1810,Product_810,Clothing,31.92,5,12,57,253,26-35,Urban,Male,16.83,Standard,27.87,Low,60.46
+1811,Product_811,Electronics,48.81,20,18,287,253,46-60,Urban,Male,103.82,Express,11.01,High,83.39
+1812,Product_812,Clothing,41.94,30,5,464,256,18-25,Urban,Male,7.72,Express,22.69,Medium,82.1
+1813,Product_813,Electronics,130.08,5,18,104,251,60+,Urban,Female,101.88,Express,14.01,High,70.48
+1814,Product_814,Beauty,61.43,40,18,227,253,36-45,Urban,Male,40.25,Standard,16.13,Low,64.27
+1815,Product_815,Books,101.4,0,18,246,203,36-45,Urban,Male,14.56,Express,17.66,High,100.0
+1816,Product_816,Beauty,22.39,0,12,187,210,36-45,Rural,Other,56.71,Standard,17.18,Low,76.48
+1817,Product_817,Home & Kitchen,64.09,0,18,493,231,26-35,Urban,Male,56.0,Standard,35.35,Low,63.25
+1818,Product_818,Clothing,93.11,20,5,82,248,36-45,Urban,Female,33.01,Standard,9.94,Low,52.09
+1819,Product_819,Electronics,57.36,15,12,185,206,26-35,Rural,Male,78.07,Standard,18.54,High,44.83
+1820,Product_820,Clothing,103.47,0,18,251,245,36-45,Semi-Urban,Male,109.66,Standard,8.37,Medium,42.86
+1821,Product_821,Home & Kitchen,40.03,5,18,354,257,36-45,Urban,Male,46.67,Express,15.76,Medium,44.83
+1822,Product_822,Clothing,127.18,10,5,237,210,36-45,Urban,Female,52.14,Standard,17.57,Low,70.62
+1823,Product_823,Sports,216.88,0,12,359,227,36-45,Semi-Urban,Female,76.0,Standard,4.7,Low,64.64
+1824,Product_824,Sports,43.92,20,12,183,253,18-25,Urban,Female,120.04,Standard,52.37,Low,58.48
+1825,Product_825,Electronics,41.79,20,12,283,240,18-25,Semi-Urban,Male,152.66,Standard,21.72,Medium,79.73
+1826,Product_826,Electronics,130.59,10,12,384,222,36-45,Rural,Male,337.69,Standard,16.73,Medium,100.0
+1827,Product_827,Home & Kitchen,140.86,30,5,425,244,18-25,Urban,Female,3.08,Express,26.42,Medium,48.53
+1828,Product_828,Electronics,39.9,5,12,209,222,26-35,Urban,Male,73.02,Express,19.82,High,51.51
+1829,Product_829,Beauty,42.43,40,18,303,249,26-35,Semi-Urban,Male,184.93,Express,11.12,Low,20.66
+1830,Product_830,Home & Kitchen,46.11,15,18,295,227,18-25,Urban,Male,224.43,Express,31.19,Low,64.47
+1831,Product_831,Electronics,24.37,10,18,96,242,18-25,Urban,Female,230.72,Standard,34.97,Medium,62.45
+1832,Product_832,Clothing,31.46,0,5,446,246,36-45,Urban,Female,252.16,Express,9.58,Medium,82.86
+1833,Product_833,Clothing,29.89,20,28,459,256,26-35,Semi-Urban,Male,281.7,Standard,6.57,Medium,63.26
+1834,Product_834,Sports,34.44,5,18,455,225,26-35,Semi-Urban,Male,103.23,Standard,14.3,High,53.24
+1835,Product_835,Electronics,53.47,0,18,471,224,46-60,Rural,Female,253.84,Standard,16.04,Medium,68.85
+1836,Product_836,Sports,62.84,0,18,207,253,18-25,Semi-Urban,Female,35.92,Standard,25.81,Low,76.14
+1837,Product_837,Home & Kitchen,138.42,10,28,369,228,18-25,Urban,Male,87.14,Standard,2.99,Low,32.65
+1838,Product_838,Home & Kitchen,29.99,10,18,387,218,36-45,Semi-Urban,Female,81.85,Standard,35.26,High,85.14
+1839,Product_839,Electronics,98.55,15,12,421,232,36-45,Urban,Male,64.51,Standard,28.7,Medium,91.13
+1840,Product_840,Home & Kitchen,48.02,20,18,491,235,26-35,Semi-Urban,Male,37.63,Express,12.28,Low,75.95
+1841,Product_841,Home & Kitchen,53.0,0,18,410,213,60+,Urban,Male,203.61,Standard,28.81,Low,46.31
+1842,Product_842,Clothing,81.85,15,18,136,213,46-60,Urban,Male,93.62,Standard,45.22,Medium,58.48
+1843,Product_843,Beauty,27.84,0,18,366,234,18-25,Semi-Urban,Male,98.28,Express,16.84,Medium,88.66
+1844,Product_844,Home & Kitchen,68.68,20,5,399,229,18-25,Urban,Female,38.19,Standard,31.93,Low,45.44
+1845,Product_845,Sports,60.33,20,12,183,227,36-45,Semi-Urban,Male,135.68,Express,32.34,Medium,77.57
+1846,Product_846,Electronics,73.37,10,28,75,216,26-35,Semi-Urban,Male,210.05,Express,6.44,Low,63.98
+1847,Product_847,Beauty,64.94,15,18,286,202,18-25,Urban,Male,126.46,Standard,14.7,High,68.2
+1848,Product_848,Electronics,238.22,5,18,471,215,36-45,Urban,Female,44.52,Standard,24.55,Low,48.28
+1849,Product_849,Beauty,37.24,10,12,374,245,26-35,Rural,Female,216.8,Standard,23.26,Medium,71.61
+1850,Product_850,Sports,39.7,20,12,141,229,26-35,Urban,Male,14.5,Standard,25.56,Medium,70.18
+1851,Product_851,Clothing,37.57,10,18,236,251,18-25,Semi-Urban,Male,155.51,Standard,9.17,Low,34.81
+1852,Product_852,Clothing,39.12,5,18,24,228,36-45,Semi-Urban,Male,43.91,Standard,65.03,Medium,64.91
+1853,Product_853,Home & Kitchen,37.25,10,18,289,244,26-35,Rural,Male,249.32,Standard,49.79,Low,77.28
+1854,Product_854,Electronics,111.43,20,12,66,214,18-25,Semi-Urban,Male,334.97,Standard,20.96,Medium,57.29
+1855,Product_855,Clothing,128.03,5,18,249,245,26-35,Semi-Urban,Female,57.25,Standard,27.24,Medium,16.05
+1856,Product_856,Clothing,38.77,0,12,407,255,26-35,Rural,Female,74.95,Express,47.9,Low,62.7
+1857,Product_857,Sports,33.13,15,18,117,224,46-60,Semi-Urban,Female,144.17,Standard,33.24,Low,94.33
+1858,Product_858,Sports,72.45,20,12,489,250,46-60,Semi-Urban,Male,63.8,Express,2.51,High,58.11
+1859,Product_859,Home & Kitchen,39.2,0,12,72,237,18-25,Urban,Male,20.27,Standard,5.06,Low,93.57
+1860,Product_860,Home & Kitchen,79.82,0,18,281,241,36-45,Urban,Female,261.9,Express,17.82,Medium,48.75
+1861,Product_861,Home & Kitchen,61.67,0,28,403,258,36-45,Semi-Urban,Female,67.37,Standard,17.18,Low,41.78
+1862,Product_862,Clothing,21.99,5,5,447,246,36-45,Urban,Male,125.87,Standard,31.49,High,64.9
+1863,Product_863,Clothing,138.17,10,18,359,252,26-35,Urban,Female,54.54,Standard,41.5,Medium,48.55
+1864,Product_864,Home & Kitchen,160.38,15,12,9,253,18-25,Urban,Male,116.2,Standard,12.87,Medium,71.6
+1865,Product_865,Sports,37.8,15,12,210,251,36-45,Semi-Urban,Male,114.23,Standard,4.87,Low,57.55
+1866,Product_866,Home & Kitchen,43.27,10,5,322,257,18-25,Urban,Male,135.74,Standard,6.05,Low,94.48
+1867,Product_867,Home & Kitchen,64.81,5,12,151,237,18-25,Urban,Other,64.39,Standard,26.31,Low,56.17
+1868,Product_868,Beauty,66.73,20,18,4,222,26-35,Urban,Male,40.2,Standard,29.96,Low,66.79
+1869,Product_869,Clothing,81.05,10,5,194,224,60+,Semi-Urban,Female,57.18,Standard,19.7,Medium,76.93
+1870,Product_870,Home & Kitchen,182.39,40,12,441,241,18-25,Urban,Male,380.41,Standard,28.78,Medium,84.13
+1871,Product_871,Clothing,49.1,10,28,282,206,26-35,Urban,Male,164.44,Standard,35.51,Low,94.59
+1872,Product_872,Clothing,33.82,0,5,463,221,26-35,Urban,Female,104.83,Same Day,33.12,Medium,60.3
+1873,Product_873,Home & Kitchen,23.86,15,18,112,216,46-60,Urban,Male,32.34,Standard,22.63,Low,57.01
+1874,Product_874,Home & Kitchen,35.21,5,12,270,217,26-35,Semi-Urban,Male,139.67,Express,7.53,Low,26.72
+1875,Product_875,Clothing,53.52,15,18,162,248,18-25,Semi-Urban,Male,314.52,Standard,7.78,High,100.0
+1876,Product_876,Home & Kitchen,160.25,0,12,459,240,18-25,Urban,Female,117.41,Standard,5.82,Medium,72.22
+1877,Product_877,Home & Kitchen,40.02,0,12,104,209,26-35,Urban,Female,147.26,Standard,23.6,Medium,80.04
+1878,Product_878,Beauty,62.44,20,12,180,209,18-25,Rural,Male,44.54,Standard,40.25,Low,76.11
+1879,Product_879,Sports,54.06,0,5,43,256,18-25,Urban,Male,104.93,Express,16.14,Low,65.99
+1880,Product_880,Clothing,111.39,20,12,281,206,36-45,Urban,Female,305.44,Standard,36.3,Low,72.01
+1881,Product_881,Books,248.68,5,18,174,247,26-35,Urban,Male,80.82,Express,8.49,High,53.81
+1882,Product_882,Home & Kitchen,39.71,10,18,161,249,36-45,Urban,Male,225.77,Standard,16.41,Medium,58.96
+1883,Product_883,Beauty,40.7,15,18,470,237,18-25,Urban,Male,42.32,Standard,19.86,Low,46.0
+1884,Product_884,Home & Kitchen,102.16,10,18,350,226,26-35,Semi-Urban,Female,130.47,Standard,29.93,High,96.14
+1885,Product_885,Electronics,82.2,5,5,433,251,26-35,Urban,Male,86.16,Standard,16.38,Medium,76.23
+1886,Product_886,Electronics,165.34,0,12,339,232,18-25,Urban,Female,219.75,Standard,40.66,High,100.0
+1887,Product_887,Home & Kitchen,77.51,0,12,139,200,26-35,Urban,Female,253.69,Standard,38.81,Low,100.0
+1888,Product_888,Clothing,44.01,5,12,470,243,18-25,Urban,Female,119.07,Standard,16.14,Low,36.92
+1889,Product_889,Home & Kitchen,77.82,15,18,131,252,36-45,Urban,Female,124.89,Same Day,24.59,Low,84.7
+1890,Product_890,Clothing,106.19,30,18,86,259,26-35,Urban,Male,367.29,Standard,14.08,Low,37.84
+1891,Product_891,Clothing,89.33,20,12,175,233,26-35,Urban,Female,204.35,Express,16.48,High,68.55
+1892,Product_892,Clothing,74.02,15,12,182,203,18-25,Semi-Urban,Female,47.89,Standard,24.83,Medium,71.29
+1893,Product_893,Home & Kitchen,103.54,15,18,367,216,18-25,Semi-Urban,Female,81.46,Standard,11.26,Medium,39.26
+1894,Product_894,Clothing,110.12,15,18,128,203,26-35,Urban,Male,84.45,Express,12.17,High,50.25
+1895,Product_895,Home & Kitchen,125.12,5,12,245,242,26-35,Urban,Male,168.91,Express,12.23,Low,72.21
+1896,Product_896,Clothing,80.58,30,28,88,253,18-25,Semi-Urban,Female,182.99,Standard,6.0,High,68.53
+1897,Product_897,Beauty,49.39,15,28,65,225,18-25,Urban,Male,191.13,Standard,31.24,High,44.63
+1898,Product_898,Electronics,59.62,10,12,157,203,26-35,Urban,Male,16.22,Standard,7.0,Medium,51.04
+1899,Product_899,Electronics,112.61,0,12,386,200,26-35,Semi-Urban,Female,238.7,Express,37.75,Low,35.17
+1900,Product_900,Home & Kitchen,33.44,5,18,377,206,18-25,Rural,Female,65.08,Standard,39.28,Medium,40.94
+1901,Product_901,Home & Kitchen,68.12,10,28,148,229,26-35,Urban,Male,45.37,Express,38.25,Low,57.57
+1902,Product_902,Electronics,43.12,20,18,472,249,26-35,Urban,Female,181.3,Standard,12.54,High,84.75
+1903,Product_903,Sports,55.55,10,5,339,208,26-35,Rural,Female,273.89,Standard,23.36,Low,87.28
+1904,Product_904,Clothing,117.57,5,12,432,234,26-35,Urban,Male,211.51,Express,3.69,Medium,100.0
+1905,Product_905,Clothing,61.23,40,18,115,207,26-35,Rural,Female,132.69,Same Day,33.24,Medium,73.49
+1906,Product_906,Electronics,56.14,0,18,213,223,18-25,Urban,Female,163.43,Standard,21.44,Low,68.77
+1907,Product_907,Clothing,24.15,5,12,468,218,18-25,Urban,Female,36.64,Express,16.31,Low,74.9
+1908,Product_908,Clothing,85.43,0,18,445,235,26-35,Urban,Female,36.43,Express,16.46,Low,74.71
+1909,Product_909,Clothing,80.42,15,18,480,249,26-35,Rural,Female,342.11,Express,12.01,Medium,32.67
+1910,Product_910,Beauty,199.93,30,18,371,251,26-35,Rural,Male,99.93,Same Day,17.01,High,100.0
+1911,Product_911,Clothing,45.39,5,18,293,258,36-45,Urban,Male,64.8,Standard,21.42,Low,26.38
+1912,Product_912,Home & Kitchen,62.27,20,18,252,242,46-60,Semi-Urban,Male,43.97,Express,10.5,High,87.98
+1913,Product_913,Electronics,63.41,5,12,142,226,18-25,Semi-Urban,Female,171.34,Express,15.82,Low,66.13
+1914,Product_914,Clothing,140.68,30,18,249,231,36-45,Semi-Urban,Female,165.12,Standard,1.6,Medium,43.21
+1915,Product_915,Electronics,51.56,15,12,365,213,26-35,Semi-Urban,Male,129.77,Standard,37.64,High,75.63
+1916,Product_916,Beauty,64.55,20,18,435,256,18-25,Urban,Male,174.68,Standard,24.37,Low,62.64
+1917,Product_917,Home & Kitchen,78.63,0,12,462,217,60+,Urban,Male,139.54,Express,32.46,High,51.35
+1918,Product_918,Beauty,61.07,30,18,301,227,36-45,Rural,Male,80.64,Express,13.06,Medium,37.37
+1919,Product_919,Clothing,41.77,15,12,24,259,60+,Rural,Male,23.71,Standard,1.31,Low,35.69
+1920,Product_920,Beauty,61.34,5,5,276,228,18-25,Urban,Male,231.67,Standard,6.0,High,52.78
+1921,Product_921,Home & Kitchen,103.98,20,12,471,215,18-25,Urban,Female,168.93,Standard,34.06,Low,57.26
+1922,Product_922,Electronics,29.49,5,5,376,234,26-35,Rural,Male,180.64,Standard,7.06,Low,40.79
+1923,Product_923,Clothing,59.13,20,18,377,246,26-35,Urban,Female,190.2,Standard,60.38,Medium,65.77
+1924,Product_924,Clothing,35.87,0,18,388,258,18-25,Semi-Urban,Female,134.15,Standard,32.09,High,43.64
+1925,Product_925,Home & Kitchen,111.84,15,18,69,258,46-60,Urban,Female,93.95,Express,6.71,High,72.2
+1926,Product_926,Electronics,21.89,10,12,112,230,26-35,Rural,Male,232.36,Standard,12.02,Low,89.63
+1927,Product_927,Home & Kitchen,39.04,0,5,362,203,26-35,Urban,Female,97.82,Same Day,7.38,High,70.79
+1928,Product_928,Clothing,68.47,0,5,111,236,26-35,Urban,Female,113.81,Standard,13.68,Medium,63.12
+1929,Product_929,Clothing,139.67,0,12,363,216,26-35,Urban,Male,74.65,Same Day,11.15,High,54.3
+1930,Product_930,Clothing,52.49,10,18,302,238,18-25,Rural,Male,194.24,Standard,15.97,Low,93.92
+1931,Product_931,Home & Kitchen,39.13,5,12,470,247,60+,Semi-Urban,Male,89.69,Express,10.73,Medium,61.13
+1932,Product_932,Electronics,168.8,10,12,451,245,26-35,Semi-Urban,Female,148.85,Standard,6.58,High,100.0
+1933,Product_933,Electronics,22.9,5,5,90,225,18-25,Urban,Female,102.25,Standard,19.28,Low,41.34
+1934,Product_934,Home & Kitchen,14.6,5,12,17,247,46-60,Rural,Male,30.12,Standard,13.48,High,70.8
+1935,Product_935,Clothing,71.09,15,18,148,238,60+,Semi-Urban,Male,192.93,Standard,31.85,Low,93.25
+1936,Product_936,Clothing,40.4,0,18,475,240,36-45,Semi-Urban,Female,155.66,Express,26.34,Low,51.2
+1937,Product_937,Electronics,29.58,30,12,226,203,46-60,Rural,Female,83.92,Standard,5.66,High,60.28
+1938,Product_938,Clothing,83.51,20,5,213,229,26-35,Urban,Female,131.07,Same Day,13.57,High,77.52
+1939,Product_939,Electronics,63.2,15,12,359,229,46-60,Semi-Urban,Female,198.31,Standard,4.34,Low,72.76
+1940,Product_940,Clothing,38.92,10,12,150,221,18-25,Rural,Female,296.72,Same Day,4.43,Low,76.19
+1941,Product_941,Clothing,25.33,20,12,191,210,36-45,Semi-Urban,Female,121.92,Standard,16.52,High,88.21
+1942,Product_942,Clothing,92.16,0,28,450,201,36-45,Semi-Urban,Male,107.03,Standard,16.72,High,58.06
+1943,Product_943,Books,80.65,0,18,39,243,18-25,Urban,Male,119.03,Standard,25.32,Medium,93.74
+1944,Product_944,Clothing,51.44,0,18,241,211,26-35,Semi-Urban,Female,75.98,Express,24.24,Medium,30.6
+1945,Product_945,Clothing,165.34,15,12,137,229,26-35,Urban,Male,115.45,Standard,32.59,High,86.55
+1946,Product_946,Clothing,28.73,0,12,344,235,36-45,Urban,Male,70.87,Standard,17.02,Low,87.94
+1947,Product_947,Electronics,21.86,10,18,179,217,18-25,Rural,Female,79.04,Standard,10.09,High,49.51
+1948,Product_948,Sports,36.05,40,18,496,225,36-45,Urban,Female,53.77,Standard,6.45,Low,35.99
+1949,Product_949,Home & Kitchen,53.13,20,18,199,252,18-25,Urban,Female,99.96,Standard,37.8,Medium,60.36
+1950,Product_950,Electronics,63.18,10,12,202,206,26-35,Semi-Urban,Female,104.5,Standard,37.6,Medium,73.08
+1951,Product_951,Beauty,47.24,0,18,60,200,46-60,Urban,Female,139.69,Express,16.92,Medium,58.3
+1952,Product_952,Electronics,67.44,20,12,191,257,26-35,Urban,Male,34.83,Express,13.9,Medium,75.04
+1953,Product_953,Books,25.77,10,18,4,225,26-35,Urban,Female,171.32,Express,30.91,High,100.0
+1954,Product_954,Sports,129.83,0,18,377,222,18-25,Urban,Male,86.85,Standard,18.26,Medium,37.71
+1955,Product_955,Home & Kitchen,51.97,0,18,236,225,36-45,Urban,Male,11.4,Standard,21.77,High,25.92
+1956,Product_956,Electronics,106.74,30,5,180,244,60+,Urban,Male,157.04,Same Day,13.8,Low,63.61
+1957,Product_957,Electronics,67.06,15,18,310,205,46-60,Urban,Female,74.79,Standard,12.28,High,51.4
+1958,Product_958,Clothing,71.81,20,5,36,205,36-45,Urban,Male,293.74,Standard,3.16,Low,55.39
+1959,Product_959,Electronics,76.85,20,12,55,243,18-25,Urban,Female,44.48,Express,28.37,Low,90.34
+1960,Product_960,Clothing,71.42,10,5,442,207,18-25,Rural,Male,127.61,Standard,3.57,Low,62.59
+1961,Product_961,Sports,80.29,10,18,236,223,18-25,Urban,Male,49.68,Standard,10.38,Medium,64.42
+1962,Product_962,Clothing,121.21,5,12,357,221,26-35,Semi-Urban,Female,12.29,Standard,5.48,High,56.26
+1963,Product_963,Home & Kitchen,61.43,5,12,348,218,18-25,Urban,Female,354.74,Standard,32.74,Medium,64.22
+1964,Product_964,Home & Kitchen,83.55,5,18,196,236,18-25,Semi-Urban,Male,87.95,Standard,14.71,Low,70.37
+1965,Product_965,Sports,51.74,15,12,72,217,26-35,Semi-Urban,Female,61.64,Standard,35.91,Low,100.0
+1966,Product_966,Electronics,129.55,10,18,58,230,26-35,Urban,Female,158.83,Standard,22.72,Medium,70.59
+1967,Product_967,Clothing,36.39,20,12,239,236,36-45,Urban,Female,120.97,Express,16.64,Low,88.25
+1968,Product_968,Beauty,160.86,5,5,1,229,46-60,Urban,Female,12.71,Standard,20.43,Low,68.73
+1969,Product_969,Beauty,53.3,10,18,448,256,26-35,Semi-Urban,Male,52.48,Express,5.21,Medium,24.44
+1970,Product_970,Sports,23.14,10,5,359,241,36-45,Urban,Female,52.98,Standard,15.99,High,53.66
+1971,Product_971,Home & Kitchen,58.96,10,12,187,232,36-45,Rural,Male,29.8,Express,21.19,Medium,70.58
+1972,Product_972,Electronics,36.28,15,18,306,209,26-35,Urban,Male,75.22,Express,15.33,Low,79.47
+1973,Product_973,Clothing,90.41,0,18,29,236,18-25,Urban,Female,90.91,Express,32.74,High,69.2
+1974,Product_974,Electronics,36.91,10,18,266,211,18-25,Semi-Urban,Male,188.05,Express,25.95,Medium,83.41
+1975,Product_975,Home & Kitchen,41.77,0,12,475,253,18-25,Rural,Male,108.24,Standard,14.46,High,35.8
+1976,Product_976,Home & Kitchen,17.57,5,5,107,229,36-45,Urban,Female,23.59,Standard,17.0,Low,65.98
+1977,Product_977,Home & Kitchen,41.62,10,18,331,226,46-60,Semi-Urban,Female,58.53,Standard,27.36,Medium,91.56
+1978,Product_978,Sports,12.75,15,18,422,238,60+,Urban,Female,152.61,Standard,1.31,High,45.57
+1979,Product_979,Home & Kitchen,21.11,30,18,89,208,18-25,Semi-Urban,Female,113.18,Standard,16.58,Low,87.41
+1980,Product_980,Clothing,86.16,10,18,204,253,60+,Semi-Urban,Male,70.98,Standard,18.52,Medium,86.38
+1981,Product_981,Electronics,87.49,15,18,378,220,26-35,Rural,Female,21.28,Standard,37.43,Low,40.26
+1982,Product_982,Sports,70.48,10,12,455,211,36-45,Urban,Female,317.69,Same Day,10.49,Medium,71.76
+1983,Product_983,Electronics,30.56,10,12,446,254,18-25,Urban,Male,374.91,Express,15.06,High,68.18
+1984,Product_984,Electronics,53.06,0,18,447,228,18-25,Semi-Urban,Male,129.25,Standard,4.86,Medium,61.47
+1985,Product_985,Electronics,54.48,5,12,444,232,26-35,Urban,Male,84.88,Standard,34.94,High,34.46
+1986,Product_986,Clothing,27.25,5,12,380,242,46-60,Semi-Urban,Female,61.89,Express,3.86,Medium,59.74
+1987,Product_987,Electronics,134.56,10,18,437,252,18-25,Urban,Male,116.63,Standard,7.24,High,61.87
+1988,Product_988,Sports,92.43,0,18,219,214,18-25,Urban,Female,240.07,Standard,10.17,Medium,31.03
+1989,Product_989,Books,47.82,0,12,377,201,46-60,Semi-Urban,Male,94.19,Standard,7.24,Low,38.9
+1990,Product_990,Books,55.49,5,5,93,251,46-60,Urban,Male,52.16,Standard,27.01,Medium,46.46
+1991,Product_991,Electronics,61.87,40,12,456,238,18-25,Rural,Male,296.99,Standard,8.98,Medium,44.03
+1992,Product_992,Sports,16.04,5,18,102,252,36-45,Semi-Urban,Male,45.87,Express,19.54,High,71.53
+1993,Product_993,Books,47.07,10,28,222,243,26-35,Semi-Urban,Male,62.84,Standard,23.2,Medium,83.23
+1994,Product_994,Sports,36.26,0,12,185,253,26-35,Urban,Male,122.22,Standard,12.62,Medium,58.79
+1995,Product_995,Home & Kitchen,29.93,10,5,468,217,26-35,Rural,Male,48.18,Express,12.79,High,80.33
+1996,Product_996,Home & Kitchen,46.12,5,18,183,202,26-35,Semi-Urban,Other,154.54,Express,15.43,High,84.05
+1997,Product_997,Electronics,160.55,0,12,494,206,26-35,Urban,Female,79.87,Standard,21.4,Medium,63.29
+1998,Product_998,Sports,80.2,10,18,161,242,26-35,Urban,Female,27.24,Express,12.17,High,73.16
+1999,Product_999,Electronics,38.76,0,28,246,217,26-35,Urban,Female,157.48,Same Day,36.59,Medium,60.53
+2000,Product_1000,Clothing,76.98,0,5,30,243,36-45,Rural,Female,457.76,Same Day,19.49,Low,42.54
